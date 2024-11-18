@@ -1,0 +1,6096 @@
+(upbeat music)
+
+- It is the question of our time.
+
+Is it all the smartphones' fault?
+
+It's the question that
+everybody seems to be asking,
+
+whether it's the mental health crisis,
+
+the political crises,
+
+or just seemingly everything
+in the world going to shit
+
+at the same time.
+
+Is it the smartphone's fault?
+
+Is everything being
+driven by our obsession
+
+and addiction to the
+devices in our pockets?
+
+NYU professor and bestselling
+author Jonathan Haidt argues,
+
+yes, it is the smartphones' fault.
+
+He believes there's a direct correlation
+
+between smartphones,
+social media, news feeds,
+
+front-facing cameras,
+
+and pretty much everything
+going wrong in society
+
+at the same time.
+
+His new book is chock full of data
+
+and charts supporting this claim,
+
+and he particularly focuses
+on the mental health crisis
+
+among young people.
+
+Now, my personal belief is,
+
+I think it's complicated.
+
+I don't think it's as simple
+
+as smartphones equal bad,
+(buzzer sound effect plays)
+
+smartphones ruin kids.
+(explosion sound effect plays)
+
+As somebody who's very
+familiar with the data
+
+on this subject,
+
+the story is very complex,
+
+and there's a lot of nuance to it.
+
+So in today's episode,
+
+I challenge Doctor Haidt
+on some of his claims,
+
+and we get into the nitty
+gritty of the issue.
+
+We look at the research
+and we ask ourselves,
+
+why doesn't some of this make sense?
+
+Now, he's been on pretty
+much every podcast
+
+under the sun this year
+talking about this subject,
+
+so I really wanted to try
+to take this conversation
+
+in a different direction.
+
+Some of the things that we cover include,
+
+if it is the phone's fault,
+
+why aren't we seeing mental health crises
+
+in every other part of the world?
+
+Why does this seem
+
+to be limited to the
+English-speaking world?
+
+Also, is this just another moral panic?
+
+I mean, I remember when I was a kid,
+
+people were freaking out about cable TV
+
+and violent video games
+
+and the corruption of
+the morality of our youth
+
+and how we're all going
+
+to be drug addicts shooting
+each other on the streets.
+
+It never happened.
+
+So if this is different,
+
+what makes it different this time?
+
+We also talk about what the difference is
+
+between psychological development
+
+and educational development,
+
+and why the difference
+
+between those two things
+actually really matters.
+
+Because I personally think one
+
+of the most important distinctions
+
+around this subject is separating
+the psychological issues
+
+from the educational issues.
+
+And I think there's much stronger evidence
+
+that there are a lot of
+educational issues with technology,
+
+much more so than there
+are psychological issues.
+
+We also talk about why
+smartphones affect boys
+
+and girls differently,
+
+why they affect liberals and
+conservatives differently,
+
+why they affect religious people
+
+and non-religious people differently,
+
+why they affect different cultures
+
+or people who speak different
+languages differently.
+
+This, to me, is the most fascinating part
+
+of this whole issue,
+
+is that if smartphones
+have such a negative effect
+
+on people, why do they
+affect different backgrounds
+
+and belief systems differently?
+
+And finally, if social
+media is an addiction,
+
+is it more like alcohol,
+
+where there's a small minority
+
+of people who have their lives
+completely fucked up by it
+
+and the vast majority of
+people are kind of okay?
+
+Or is it like cigarettes,
+
+where it's just bad for
+everybody all the time?
+
+I think this is a really
+important question,
+
+and it's an important distinction
+
+as we try to figure out
+
+as a society what our
+relationship is going
+
+to be with this technology.
+
+Now, while I don't buy wholesale
+
+into all of Doctor Haidt's arguments
+
+and explanations for what's going on,
+
+I really do agree with his prescriptions.
+
+I think he comes up with
+four really distinct,
+
+really important and practical
+recommendations for parents,
+
+policymakers, teachers, and educators.
+
+And all four of these strike me
+
+as really reasonable and important.
+
+So we're going to get into all
+four of those prescriptions
+
+towards the end of the episode,
+
+and I hope you'll stick
+around to listen to those.
+
+And finally, just as a quick reminder,
+
+if you're watching this on YouTube,
+
+we are moving the podcast
+over to its own channel soon.
+
+So be sure to head over to
+that channel and subscribe,
+
+otherwise you're going
+
+to miss fucking great episodes
+like this one pretty soon.
+
+So without further ado,
+
+here is my conversation
+with Jonathan Haidt.
+
+- [Narrator] 20 million books sold.
+
+Zero fucks given.
+(upbeat music)
+
+It's "The Subtle Art of
+Not Giving a F*ck Podcast"
+
+with your host, Mark Manson.
+
+- Doctor Haidt, it's
+great to have you here.
+
+It's great to see you again.
+
+- Great to see you, Mark.
+
+- The book is "The Anxious Generation."
+
+It is number one everywhere.
+
+You really hit the bullseye on
+the zeitgeist at the moment.
+
+- I got the timing right, that's for sure.
+
+- Yeah, you definitely did.
+
+The book's fantastic.
+
+I think it's super important.
+
+This might be the book, in the last year,
+
+the most random people in my
+life have brought it up to me.
+
+- Let me guess, all parents?
+
+- All parents.
+
+- Yeah, every parent.
+
+- All parents and educators.
+
+- Yeah.
+- Yeah.
+
+- And psychologists and psychiatrists.
+
+- Yes.
+
+So it is definitely making an impact.
+
+It's the sort of topic
+
+that I think people have
+very strong intuitions about.
+
+And as a social psychologist,
+
+you know that our intuitions
+are often very wrong.
+
+- Oh, yeah, that's what I
+made my living proving, yes.
+
+- So I'm actually gonna,
+
+I'm gonna play a little bit
+
+of devil's advocate on this episode,
+
+mainly just because I think
+the research that's going on
+
+on this topic is super interesting
+
+and it is such an important topic.
+
+I mean, technology, it
+affects all of our lives.
+
+So I'd like to try to find
+a little bit of clarity
+
+or really just like break
+
+into the nuance of what's going on.
+
+But why don't we just start
+with what is the quick summary
+
+of the argument of the book?
+
+- The quick summary is that
+something went terribly wrong
+
+in the early 2010s,
+
+and young people who
+were born 1996 and later
+
+were really, really different
+
+from those who were born
+a few years earlier.
+
+And that's what gave
+rise to my previous book,
+
+"The Coddling the American
+Mind" with Greg Lukianoff.
+
+It was all about how, oh,
+we overprotected our kids,
+
+we didn't give them enough play.
+
+And we speculated in
+that book and, you know,
+
+maybe smartphones and
+social media, you know,
+
+the timing is right,
+but, you know, who knows?
+
+And that we wrote that in 2017.
+
+Well, since then,
+
+I've been collecting everything I can find
+
+on teen mental health,
+
+on the research on whether it's
+social media and the phones.
+
+And when you put it all together,
+
+the story of the book is not,
+
+oh, it's social media is destroying girls.
+
+I mean, there is a clear link there.
+
+The story is we had what I call
+
+the Great Rewiring of Childhood
+between 2010 and 2015.
+
+If you went through puberty before 2010,
+
+so what year were you born?
+
+- '84.
+
+- Okay, so you're an older millennial.
+
+- [Mark] Yes.
+
+- So you grew up with the Internet
+
+but not when you were a little kid.
+
+But you had the Internet
+when you were a teenager.
+
+- Yeah, it was like 11 or 12 years old.
+
+- And it was great, right?
+
+- [Mark] Yeah.
+
+- The early Internet was amazing.
+
+And so we thought, oh, you
+know, the technology is great.
+
+And you got your first
+smartphone when you were
+
+in your 20s, probably.
+
+Wow, 26, maybe 25, 26, yeah.
+
+- So your brain was basically fully cooked
+
+when you were drawn into the craziness,
+
+the cesspool of life on
+social media all the time.
+
+(Mark laughing)
+
+- Yeah, right.
+
+- But imagine that you weren't 26.
+
+Imagine you were ten,
+
+and now you're not going
+out playing with other kids,
+
+you're seeing this.
+
+I mean, it's incredible
+what happened to childhood
+
+between 2010 and 2015.
+
+It begins earlier,
+
+being cutting down on
+childhood play in the nineties.
+
+But so the argument of the book
+
+is that we have overprotected our children
+
+in the real world.
+
+We began that in the nineties
+
+and then we just do not let kids out now.
+
+We think they'll be abducted,
+
+they'll fall down, or
+they'll get hit by a car.
+
+And we've under protected them online,
+
+because the early Internet was so amazing,
+
+the smartphone was so amazing.
+
+And once our kids were doing
+this all day long, we thought,
+
+well, maybe it's stimulating
+their brains or something.
+
+So we didn't really
+notice what was happening
+
+between 2010 and 2015.
+
+But now we see it.
+
+And while the evidence
+
+is there are many specific
+experiments that are debatable,
+
+and I'm in those debates.
+
+But as we just saw in the
+Surgeon General's call last week
+
+for warning labels, I
+will make the case to you
+
+and your audience
+
+that I think the evidence
+is actually quite solid,
+
+that this phone-based childhood
+is really incompatible
+
+with flourishing, with human
+flourishing and development,
+
+and that it is harming kids at a level,
+
+a scale beyond anything you can imagine.
+
+Because it's not just the US,
+
+it's most of the developed world.
+
+- Yeah.
+
+So how is this not a moral panic?
+
+Like, when I was a kid,
+
+it was the video games were
+going to rot our brain.
+
+When you were a kid,
+
+it was the television was
+going to rot your brain,
+
+comic books.
+
+Why is it different this time?
+
+- Okay, good question.
+
+That's the one that I,
+
+that's really what animates the, you know,
+
+my critics and the skeptics.
+
+And know, as with the boy who cried wolf,
+
+if you cry wolf once,
+
+then it turns out not to be.
+
+And you cry wolf a second time
+and it turns out not to be.
+
+So I can understand why people say,
+
+"Isn't this just like every other one?"
+
+But there's a several part answer to it.
+
+So the first.
+
+The first is that it's
+never happened before
+
+that a product came out
+and a generation collapsed.
+
+So what we're seeing now is, I mean,
+
+we just haven't seen.
+
+It's not like when television came out,
+
+suddenly the baby
+boomers all got depressed
+
+or violent or anything else.
+
+There wasn't this radical
+change within a few years.
+
+That's the first thing.
+
+The second is that in a
+traditional moral panic,
+
+nothing really happens in the real world,
+
+but a story goes around
+
+about a kid who played violent video games
+
+and then shot up his school
+
+or chopped his parents heads
+off or something like that.
+
+And maybe it happened once,
+maybe it happened zero times,
+
+but it's media-induced,
+
+and then it gets spread around.
+
+This time is not like that.
+
+This time, everyone.
+
+Everyone, most people have seen.
+
+Most people.
+
+I mean, this is the main
+thing that parents talk about,
+
+or one of the main things
+parents talk about.
+
+It's one of the main
+things teens talk about.
+
+So everyone has seen it within
+their own social circles.
+
+This is not some distant story.
+
+That's the second.
+
+The third is that in a
+traditional moral panic,
+
+the kids playing video
+games aren't saying,
+
+"Please, video game companies,
+
+please make video games that are not
+
+so much fun that I can't stop.
+
+Please help us.
+
+Stop addicting us."
+
+The kids love the games,
+
+and it's the parents who are freaking out.
+
+So that's the third difference.
+
+This time around,
+
+there are now dozens of
+organizations started
+
+by Gen Z who are pushing back,
+
+who are saying, "Wait a sec,
+
+look what you're doing to us, stop it.
+
+And then a fourth one,
+
+which I'm just beginning to formulate,
+
+is that for these previous moral panics
+
+where everyone assumes there was no harm,
+
+we were actually, in the social sciences,
+
+we operationalize a question that is,
+
+are video games harming kids?
+
+And the way we do it is we say, "Well,
+
+let's look at those
+first-person shooter games.
+
+Let's look at violent video games.
+
+Are violent video games
+making kids violent?"
+
+And I looked into this
+research to write the book,
+
+and the answer is no.
+
+Violent video games don't
+make people behave violent.
+
+There is some debate, maybe
+there's a small effect,
+
+but it probably is not what
+caused increases in violence.
+
+But does that mean the
+video games are fine?
+
+And when you talk to the thousands
+
+and thousands of parents
+whose boys were lost
+
+to video games, who wouldn't go outside,
+
+who didn't make friends,
+
+and who spent their entire
+adolescence on video games,
+
+yeah, those boys were harmed.
+
+And we did some research
+for the book on addiction.
+
+There's a debate whether you
+should use the word addiction.
+
+The general word is
+called problematic use,
+
+but it sure looks like addiction.
+
+It's compulsive use.
+
+It interferes with other domains of life.
+
+It's hard to stop.
+
+And when you are stopped,
+
+you have the symptoms of
+withdrawal, including irritability,
+
+anxiety, insomnia, and dysphoria.
+
+And typically, it's about 5 to 10%.
+
+So if 5 to 10%
+
+of boys were getting
+addicted to video games,
+
+now, it would be higher now
+
+because the video games are amazing.
+
+Whereas when I was a kid,
+
+you couldn't really get addicted to Pong
+
+or Space Invaders or whatever.
+
+Maybe you could, but it
+wouldn't be the same.
+
+The question, are violent video
+games making kids violent?
+
+No, that was just a moral panic.
+
+But it doesn't follow
+that video games are okay
+
+because actually it did
+damage a lot of kids.
+
+The question on television
+is even more interesting.
+
+Did television make kids violent?
+
+Did television make kids X, Y, or Z?
+
+- Couldn't you argue that
+all the unrest in the sixties
+
+and the free love and
+the drug experimentation
+
+and Vietnam and everything,
+
+couldn't you argue that
+that was television-driven?
+
+- Well, remember, television
+was not made by kids.
+
+It wasn't made by teenagers.
+
+It was made by people in their parents'
+
+and grandparents' generation.
+
+And sure, ideas spread on
+television more quickly.
+
+So the extent that things are more viral.
+
+So, yes, sure, you know, Woodstock footage
+
+from Woodstock would be
+shown somewhere else.
+
+But I guess the main thing was,
+
+is television rotting kids brains?
+
+That's what people thought.
+
+It's gonna warp them.
+
+They're gonna come out
+all weird and terrible.
+
+And it looks like that's overall not true.
+
+It didn't.
+
+You know, I mean, we
+watched a lot of stupid TV,
+
+and I think we came out okay, most of us.
+
+But what I'm realizing is we
+always ask a single question,
+
+when actually there are multiple pathways.
+
+There can be multiple
+pathways of harm going on.
+
+What I'm really coming to
+appreciate about television,
+
+I've been reading Neil
+Postman, in particular.
+
+Neil Postman, Marshall McLuhan,
+
+these are the great media theorists.
+
+- Love 'em, yeah.
+
+- Because what they saw was
+that electronic communication,
+
+beginning with a telegraph,
+changed the planet.
+
+It changes everything.
+
+It's changing a major parameter
+of how news moves around.
+
+And it only came together
+
+for me when I was reading Neil Postman
+
+about the transformation of television.
+
+And of course, Marshall McLuhan said,
+
+"The medium is the message."
+
+Don't focus on what
+they're watching on TV.
+
+Focus on the fact that
+we're all now sitting
+
+around the hearth, which is the TV.
+
+We're not out on our porch.
+
+We're not talking to our neighbors.
+
+We're sitting in our air
+conditioned living room watching.
+
+That's what life is now.
+
+Now, does that rot their brains?
+
+Not necessarily.
+
+But did it rot social capital?
+
+It devastated it.
+
+So, in fact, you know,
+America's in huge trouble.
+
+Our democracy is coming apart.
+
+And actually, I would say that a large,
+
+some part of the blame
+is due to television,
+
+because television, and this
+is straight from Robert Putnam,
+
+he says, "The biggest factor
+
+in the loss of social capital was the loss
+
+of the greatest generation,
+the World War II generation."
+
+World War II was huge, but
+the second-biggest factor,
+
+according to his analyses, was television.
+
+And so if television played a leading role
+
+in the decline of trust, local trust,
+
+and that's setting us up for
+a lot of the political chaos
+
+and the real risk of
+ungovernability that we have
+
+in this country, that I would say those
+
+who said television was a
+moral panic are actually wrong.
+
+The specific question,
+
+is television going to
+rot my child's brain?
+
+The answer appears to be no.
+
+But is television okay?
+
+Is television a positive good for society?
+
+That's a very different question.
+
+In the long run, the answer might be no,
+
+it was not good for society.
+
+- Especially in the eighties when cable,
+
+cable television came out.
+
+Like, and you started.
+
+Maybe TV wasn't the moral panic,
+
+but it started disseminating moral panics.
+
+- Yeah, yeah.
+
+- The satanic child abuse panic.
+
+There were a number of things
+throughout the eighties,
+
+because as a culture, we
+hadn't developed the antibodies
+
+to understand what was just bullshit.
+
+- That's right, yeah.
+
+- And there's a lot of very interesting,
+
+intelligent writing in the
+late eighties, early nineties.
+
+Postman was writing around then.
+
+I'm a huge fan of David Foster Wallace.
+
+I don't know if you've ever.
+
+- No.
+
+People say, yeah, I need to read him.
+
+- So the basis of his most
+famous novel, "Infinite Jest,"
+
+which I so wish he was alive today,
+
+just to know what he
+would say about TikTok,
+
+because the basis of "Infinite Jest,"
+
+the whole premise of the novel
+
+is that there's a movie that's
+
+so entertaining that people
+stop eating, they stop sleeping.
+
+- Oh, my God.
+
+- They just keep watching
+the movie on repeat.
+
+Like, what would happen
+in the world if, like,
+
+such a movie exists?
+
+And in the book, it becomes
+an instrument of terrorism,
+
+of, like, mailing it to people
+
+without telling them what it is.
+
+So it's absolutely fascinating.
+
+And I sometimes wonder.
+
+Sometimes I feel like
+TikTok is the infinite jest.
+
+He was right.
+
+He was just 20 years early.
+
+- Yeah.
+
+- But, yeah,
+
+there's so much interesting
+media criticism from back then.
+
+- That's right.
+
+I'm unable to read books,
+
+because I always do something else.
+
+I'm off doing something else,
+but I can do audiobooks,
+
+because that just keeps going.
+
+You listen.
+
+And so I'm about halfway
+through "Brave New World,"
+
+which, you know, we read in high school,
+
+and I remember in high school, I thought,
+
+"Well, this doesn't sound so bad.
+
+Everyone's getting sex."
+(Mark laughing)
+
+Like, I just couldn't
+get past the free sex.
+
+- Drugs, and sex.
+
+- This is great.
+
+Like, what's so bad about this?
+
+You know?
+
+But the question is, are we more,
+
+is our world,
+
+did our world become Orwell's "1984,"
+
+or did it become Huxley's
+"Brave New World?"
+
+The answer is, it became
+"Brave New World."
+
+And social media, including
+TikTok, is like that.
+
+It has a narcotic effect.
+
+It's kind of a dulling effect.
+
+It's like a slot machine.
+
+Afterwards, people don't feel
+
+it was a good use of their time.
+
+Some of my students are on TikTok
+
+four, five, six hours a day,
+
+and they see that it's bad for them,
+
+but it's just hard to stop.
+
+It's hard to get off of the habit.
+
+- Between this book and
+"Coddling of the American Mind,"
+
+you kind of hit on these
+three points that have changed
+
+over the last 10 to 20 years, let's say,
+
+and you already touched
+on all three of them,
+
+so lack of community.
+
+- Oh, yes.
+
+- Lack of play, overprotection
+in the real world,
+
+and then the social media piece.
+
+I'm wondering if, and
+this is pure conjecture,
+
+purely your opinion,
+
+if you were to make a pie chart
+
+of what percentage is being driven
+
+by each of those three things,
+
+what would you say?
+
+- I'll start by resisting the
+pie chart, and here's why.
+
+So in the book,
+
+the story we tell in the book
+is a tragedy in two acts.
+
+The loss of the play-based childhood
+
+and then the rise of the
+phone-based childhood.
+
+And I don't know if you
+got the community piece,
+
+there are hints of it in the book,
+
+or if you've heard me talk recently,
+
+but I now see it as a
+tragedy in three acts.
+
+This is something, this is work
+I've done with Zach Rausch,
+
+my research partner in all of this.
+
+Why did we take childhood away?
+
+Why did we suddenly think
+that our neighbors were going
+
+to sexually molest our
+kids in the nineties?
+
+And it turns out that the backstory
+
+of that is the loss of
+community and trust.
+
+All the stuff that Robert Putnam wrote
+
+about in the book "Bowling Alone,"
+
+and, you know, the World War II generation
+
+begins to die off.
+
+And they were very trusting
+and very good citizens.
+
+Television brings us all
+indoors into our own home,
+
+cuts us off from our neighbors.
+
+So it's not exactly a pie chart,
+
+it's more like a tragedy in three acts.
+
+If we didn't lose community,
+
+then we would not have locked up our kids.
+
+We would not have said,
+"I can't ever let you out
+
+because I can't trust the adults near me."
+
+In Scandinavia, they
+didn't lock up their kids.
+
+In Scandinavia, they
+still have high trust.
+
+They let their kids walk around.
+
+So the loss of community,
+
+I'm not going to give it a pie chart.
+
+I'm going to say this
+is a mega social problem
+
+which could do us in.
+
+I mean, you can't have a large, diverse,
+
+free society when you
+don't trust each other
+
+or institutions.
+
+So this is a gigantic
+problem which had one
+
+of its unfortunate side
+effects is it drove the loss
+
+of the play-based childhood.
+
+Now then, the loss of
+the play-based childhood,
+
+as long as kids are now all indoors,
+
+we're not letting them out.
+
+But, oh, just in the nick of
+time, the Internet comes in.
+
+And so our kids, especially the boys,
+
+are perfectly happy to sit
+there all day on a computer.
+
+And those early boys
+who did that were fine.
+
+A lot of them went on to
+found computer companies
+
+and tech companies.
+
+So again, we thought,
+"Oh, this stuff is great."
+
+And it's only then the rise
+
+of the phone-based childhood
+is really only once you get,
+
+between 2010 and 2015,
+smartphones, front-facing camera,
+
+Instagram, high-speed Internet.
+
+In 2010, you couldn't spend all
+day long on your flip phone.
+
+But in 2015, lots of kids
+
+are spending all day
+long on their smartphone.
+
+So that's my way of saying
+it's more sequential.
+
+But I'll tell you what,
+
+I will answer your question more directly,
+
+because there are cases like Scandinavia,
+
+where they still,
+
+they didn't go through that
+act one of the tragedy.
+
+They still have high trust.
+
+They didn't go through losing
+the play-based childhood.
+
+They still let their seven-year-olds
+
+out to run around and play.
+
+And yet their kids
+
+are having rising depression, anxieties,
+
+and, well, self-harm and
+suicide are more complicated,
+
+but they definitely are having
+rising bad mental health.
+
+And in all these countries,
+
+it's always the girls going
+up more than the boys,
+
+at least in absolute terms.
+
+So I would say that the essential piece
+
+to this global collapse is
+the phone-based childhood.
+
+And it's not just social
+media, because for the boys,
+
+it's not so much Instagram.
+
+For the boys, it's video games
+
+and porn is what they're mostly doing.
+
+So, how's that?
+
+- That's good.
+
+That makes sense to me.
+
+And I feel like we're actually.
+
+We're going to kind of end up there.
+
+Are you a caffeine junkie
+(energetic music)
+
+stuck in an endless cycle of
+coffee jitters and crashes?
+
+Yeah, I kind of am, too.
+
+Well, then I'm happy to
+share with you MUD\WTR.
+
+It's great because it's a
+low caffeine alternative.
+
+It gives you energy in the morning.
+
+It even has the same kind
+of taste and vibe as coffee.
+
+But you don't get those jitters,
+
+you don't get that crazy
+addictive reaction.
+
+You don't get those energy
+crashes in the afternoon.
+
+So as somebody who's
+constantly pushing the limit
+
+of his caffeine consumption,
+
+I often find myself needing to do a reset.
+
+And MUD\WTR is a great
+option to do that reset
+
+because I can, like,
+dial the caffeine back,
+
+but I don't feel like I'm
+losing a ton of energy
+
+in the process.
+
+For a limited time,
+
+our listeners can get up to
+43% off your entire order,
+
+free shipping, and a
+free rechargeable frother
+
+when you use the exclusive link.
+
+So head to MUDWTR.com,
+
+that's MUDWTR.com/IDGAF.
+
+It for "I Don't Give A Fuck."
+
+It's up to 43% off.
+
+That's MUDWTR.com/IDGAF.
+
+After you purchase, they'll
+ask where you heard about them.
+
+Please support the podcast.
+
+Tell them that Uncle Mark sent you.
+
+Can you explain briefly the
+psychological importance,
+
+the developmental importance of play?
+
+Why does play matter so much to kids?
+
+- The brain,
+
+I'll start at the beginning here.
+
+When the Human Genome
+Project was completed,
+
+it was a surprise that we had only
+
+about 20,000 genes, not very many.
+
+The idea that the genes make
+the brain, well, it turns out,
+
+no, there's just not enough
+information in the genes.
+
+The genes just sort of
+get the ball rolling.
+
+The nerves begin developing,
+
+they grow based on local factors.
+
+They connect, some connections die off.
+
+All that's happening
+
+in utero in the first few years of life,
+
+and that's a lot of growth.
+
+But then the brain
+reaches almost full size
+
+around age five or six.
+
+And from then on in, it's all fine tuning.
+
+Now, how does the brain
+know where to grow?
+
+The answer is from feedback
+from the environment.
+
+And so humans, like all mammals,
+
+we have these big brains,
+
+especially social mammals
+like dogs and chimpanzees,
+
+we have these big brains,
+
+and the way we wire them up is with play.
+
+So all mammals play.
+
+This giant cultural brain that we have,
+
+that no other animal has.
+
+It's expecting the right
+kind of interaction
+
+with the environment at the right time.
+
+And so you have to learn to crawl.
+
+You know, crawl before you can walk.
+
+And kids are interested in climbing
+
+and they do all these things.
+
+All of it is in feedback
+with brain development,
+
+and then it moves on
+to social development.
+
+So imagine this incredibly intricate dance
+
+where the environment
+is absolutely necessary.
+
+You have to have a lot of stuff coming in.
+
+Then you take a giant cleaver,
+you cut right through,
+
+you say, "How about none of that anymore?
+
+Here, here's a screen.
+
+Everything's going to happen here."
+
+It's like it just screeches to a halt.
+
+And this is why we find
+such a sharp division.
+
+There's never been this sharp a division.
+
+I mean, actually the
+Baby Boomers, 1946, okay,
+
+that was also a pretty sharp
+division, the post-war world.
+
+But the birth year around
+1996, plus or minus,
+
+that's a really sharp division
+
+because the generation
+that went through puberty.
+
+Puberty is a real acceleration
+of this neural dance.
+
+The neurons are really rewiring
+
+from the back to the front of the brain.
+
+So in the book, I really focus on puberty.
+
+And all your listeners, all the viewers,
+
+especially those who are parents,
+
+I really want you to focus on puberty.
+
+All of childhood is important,
+
+but millennials are okay
+
+because they made it through puberty
+
+before they got smartphones
+and social media.
+
+Gen Z is not okay
+
+because they went through
+puberty on smartphones
+
+and social media.
+
+- I have to ask, how much
+of this is the overbearance
+
+of the educational system?
+
+Like, when I think of most
+parents my age, I mean,
+
+we're recording this in New York City.
+
+I used to live in New York City.
+
+I remember having friends
+
+in New York City who were
+applying the daycares
+
+based on which daycares
+could help their kids get
+
+into an Ivy League school.
+
+So it's, a lot of parents these days,
+
+they're thinking about,
+
+what's my kid's college
+application going to look like?
+
+And the kid is like, four.
+
+How much of this is mistaking
+educational development
+
+for psychological development?
+
+- Yeah, so we can go through
+a whole catalog of things
+
+that are bad in some way for development.
+
+But the fact that when
+you look at the graphs of,
+
+especially anxiety, depression, self-harm,
+
+those three really go together.
+
+You look at the graphs of
+those, everything was fine
+
+from the nineties all the
+way through 2010, 2011,
+
+there's really no sign of a change.
+
+Now, all during this period,
+
+America is getting much
+more intense about college.
+
+When I applied to colleges
+in 1981, when I graduated
+
+from high school, it was
+competitive, but not crazy.
+
+And by the nineties, it was crazy.
+
+So this is sort of the
+neoliberal revolution,
+
+the Ronald Reagan, Margaret Thatcher.
+
+Everything's about competition.
+
+So the economy,
+
+society really changes a lot
+in the eighties and nineties,
+
+but we don't see a rise of mental illness.
+
+And also, that would just
+be in the Anglo countries,
+
+whereas the increase,
+because it's not exactly.
+
+I mean, the increase
+
+in mental illness is not exactly global.
+
+The developing world, life is
+getting better there overall.
+
+They're getting richer,
+they're coming out of poverty,
+
+so their happiness is not dropping,
+
+although young people's happiness
+
+is rising very slowly
+compared to older people.
+
+So this is actually a new finding
+
+from Danny Blanchflower just
+in the last month or two.
+
+All over the world, it used to be the case
+
+that the happiest people were young people
+
+and old people,
+
+and middle aged people are in the middle.
+
+It's called the U-shaped
+curve of happiness.
+
+That was true until about 2015.
+
+It has gone from this planet.
+
+So even in the developing world,
+
+where everyone's getting
+happier, on average,
+
+young people are, like,
+
+not really moving, and everyone else is.
+
+So young people are now
+the least happy people
+
+in their country,
+
+in the great majority of
+countries on this planet.
+
+That was a side.
+
+Sorry, that was a little aside.
+
+An interesting aside, I hope.
+(Mark laughing)
+
+Your question, oh, your question.
+
+I'm sorry, your question ultimately
+
+was about like, super
+competitive parenting.
+
+- Just education and
+just people mistaking.
+
+- Yeah.
+
+All that stuff is bad.
+
+But if it was really the rising pressure,
+
+then we'd see it more,
+like, in the coastal.
+
+You know, we see it more in,
+like, Berkeley and New York,
+
+but it's everywhere.
+
+The demographic differences
+are small, other than gender.
+
+Gender is huge.
+
+The other two that actually
+really matter, and this,
+
+I think, is a really important
+clue to what's going on,
+
+is religion and politics.
+
+So what race you are isn't that important.
+
+Oh, LGBTQ,
+
+their levels are higher and
+their increases are bigger.
+
+Whether you are in a
+religious family, if so,
+
+you're more protected.
+
+You didn't go up as much.
+
+You're not as bad off.
+
+And if you're in a conservative
+family compared to liberal.
+
+So that tells us about the anchoring,
+
+the sort of anchoring in community.
+
+- Yeah, I want to talk
+about both of those.
+
+Why don't we start with gender?
+
+Why is it so much worse for girls?
+
+- In the book and in
+my previous interviews,
+
+I've been saying that social
+media is worse for girls.
+
+Social media is worse for girls.
+
+I'm sorry, that's very, very clear.
+
+Overall, if we look at,
+
+but here's my new story.
+
+A little slight change.
+
+If we check in on kids
+when they're 14, 15,
+
+we're going to see the girls
+are doing worse than the boys.
+
+They have much higher rates
+of anxiety and depression.
+
+It is now normal.
+
+If you're an American girl
+
+or British or Canadian or Australian,
+
+it's normal that you're
+thinking about suicide.
+
+The latest numbers, federal surveys,
+
+I think it was 35% of American
+girls have thought seriously
+
+about suicide in the last year.
+
+24% of them have made a suicide plan.
+
+- Wow.
+
+- And that is way up from 2010,
+
+when the numbers were a
+little more than half of that.
+
+So girls are doing really
+badly, and the boys,
+
+they're on video games and porn.
+
+They're having fun.
+
+They're lonely, they're not doing well,
+
+but they're not miserable and depressed.
+
+I mean, some are, but check in at 14, 15,
+
+you're going to see the
+boys are doing worse.
+
+Check in on them at 30.
+
+The oldest of members of Gen Z are now 28.
+
+Check in on now at 28.
+
+What do you see?
+
+The girls have largely completed college.
+
+Every college in America practically
+
+is now 55% to 60% female.
+
+Boys are dropping out of life.
+
+They're not trying in school.
+
+School is really made for girls.
+
+It gets more and more feminine.
+
+What you do in school appeals
+to girls much more than boys.
+
+Boys are much more sucked in.
+
+I mean, the video games just
+get more and more amazing.
+
+And so boys are getting
+pulled out of the world.
+
+They're less likely to
+graduate high school,
+
+less likely to graduate college,
+
+more likely to be arrested,
+
+of course, more likely to
+drop out for a lot of reasons,
+
+therefore, they're less employable.
+
+So when we look at 28-year-olds,
+
+we're going to see, we do see.
+
+Pew has data on this.
+
+Many more of the boys are
+living with their parents
+
+and have basically no future.
+
+So now who's happier?
+
+I don't actually know the
+answer to that question,
+
+but my point is the girls are
+more anxious and depressed,
+
+but at least they're employed.
+
+The boys are dropping out of life.
+
+So for the rest of their lives,
+
+I think the boys are
+actually going to do worse.
+
+I think the phone-based childhood
+
+actually destroys boys' development more.
+
+I should say it doesn't destroy everybody,
+
+but it's more of an obstacle
+to boys' development
+
+than it is even to girls.
+
+- How is it affecting each side
+
+of the political spectrum differently?
+
+- So Jean Twenge was the first
+to really point this out.
+
+She began pointing out
+in her book "iGen," 2017.
+
+But she really goes into it
+
+in a more recent book, "Generations."
+
+And several different
+groups have found this
+
+is that there's long been
+a couple of differences
+
+in positive psychology.
+
+So I wrote, my first book
+
+was called "The Happiness Hypothesis."
+
+I used to be very involved
+in positive psychology.
+
+I still am to some extent.
+
+And there are a couple of big effects
+
+in the happiness research literature.
+
+Marriage and religion
+are the two huge ones.
+
+Married people are happier
+than unmarried people,
+
+and much of that is causal.
+
+There's reverse correlation, too,
+
+but a big part of that is causal.
+
+And religious people are
+happier than non-religious.
+
+And it's not so much what you believe.
+
+It's how often you go
+to church, synagogue,
+
+how embedded you are.
+
+Those have been known for a long time.
+
+When you trace out the kids
+
+in those different communities.
+
+And I'm sorry, I should also
+say it's also been known
+
+for a long time, although
+this was more hotly debated,
+
+that liberals are more
+anxious than conservatives.
+
+And conservatives are a
+little happier than liberals.
+
+So that's also been known for a long,
+
+that's been a long-standing trend.
+
+So you take those gaps
+
+and you track them out for
+boys and girls separately,
+
+and you see everything's pretty
+stable until 2012, roughly.
+
+And then everybody goes up.
+
+But the kids from religious
+families go up a little.
+
+The kids from secular
+families go up a lot.
+
+The kids from conservative
+families go up a little.
+
+The kids from liberal
+families go up a lot.
+
+And I believe, we don't know why,
+
+but the most obvious explanation for me,
+
+given all my previous work,
+
+in my book, "The Righteous Mind,"
+
+I'm a huge fan of Emile
+Durkheim, the sociologist,
+
+who talked about how we need constraints.
+
+We need limits on our ambition.
+
+We need limits to push against.
+
+And when you don't have any limits,
+
+it's not freeing and wonderful.
+
+You have anom, you have normlessness.
+
+You have a sense of just nothingness.
+
+The kids whose feet were
+planted in a community,
+
+they had to go to church on Sunday.
+
+They had to visit their grandmother.
+
+They had to say, "Yes,
+ma'am" and "No, sir."
+
+There were constraints.
+
+Those kids, the wave comes,
+
+yeah, they're on social media,
+
+but not as much as the
+secular liberal kids.
+
+And they are so tied
+
+to adults that they can't
+get washed out to sea.
+
+Whereas the secular
+liberal kids, especially,
+
+and especially the girls,
+
+they're all talking
+with each other so much,
+
+just with other girls, let's say,
+
+other kids like them,
+
+they can basically get
+pulled off of planet Earth
+
+and thrown out into orbit.
+
+- Yeah.
+
+And coming back to the
+sequentialism over the pie chart,
+
+my intuition just diving
+into all this research.
+
+And by the way, I need to give you credit.
+
+On your blog, you list all the research,
+
+both research that
+supports your conclusions
+
+and research that
+contradicts your conclusions.
+
+More people need to do that.
+
+So thank you for doing that.
+
+My intuition is that
+there's what you just said,
+
+that tethering, that
+tethering of community,
+
+that tethering of strong
+family relationships,
+
+strong friendships,
+real-world relationships.
+
+Like, my sense is that that is,
+
+inoculates people a little bit.
+
+- Yes, that's a good way to put it.
+
+- To the negative effects of social media.
+
+I have a harebrained theory for you.
+
+- Oh, okay.
+
+I love harebrained theories.
+
+- You're going to enjoy this.
+
+- Occasionally they're right.
+
+- Yeah, you're going to enjoy
+this because it is based on,
+
+and I'm glad you brought
+up "Righteous Mind,"
+
+because this this is gonna
+be a grand unified theory
+
+of Jon Haidt. (laughs)
+
+So in "The Righteous Mind,"
+
+you present Moral Foundations Theory,
+
+which there's five moral foundations.
+
+I'm gonna give you a
+butchered Wikipedia version
+
+of your own theory.
+
+So, there's harm, care.
+
+These are basically people's intuitions
+
+of what is moral and immoral.
+
+- Yeah, the thing with
+that is like moral taste,
+
+but it's like,
+
+the human mind is receptive
+to five, or actually six,
+
+but six different classes of situations.
+
+Go for it.
+
+- Okay, so, in there,
+you had harm and care,
+
+fairness/reciprocity,
+
+respect for authority,
+loyalty to the in group,
+
+and then purity, disgust,
+and I'm forgetting one.
+
+- Purity or sanctity is one.
+
+And then the new one that
+we've added is, well,
+
+it's still under discussion, but liberty.
+
+Liberty versus oppression.
+
+- Oh, interesting.
+
+- And then even more recently,
+
+when we work with Mohammad Atari,
+
+we're finding that fairness
+
+is actually two different things.
+
+There's equality, which the left favors,
+
+and there's proportionality,
+which the right favors.
+
+- Interesting.
+
+- So it gets more complex,
+
+but basically five or six taste buds.
+
+- So, from my recollection from the book,
+
+and it's been a while since I read it,
+
+you talk about political orientation
+
+based on the moral taste buds,
+
+and how the left tends
+to lean more heavily
+
+into harm versus care issues
+
+and fairness, reciprocity issues,
+
+whereas the right seems to
+be more predisposed towards
+
+loyalty to the in group, authority.
+
+- The binding foundations,
+
+loyalty, authority, sanctity.
+
+- So, here's my harebrained theory.
+
+- Okay.
+
+Because one of the things that
+I've been long interested in,
+
+especially since my
+profession relies upon it,
+
+is how the structural
+change of media in general,
+
+how all of these algorithms and platforms,
+
+even something as simple as Instagram,
+
+changing the way it ranks content,
+
+that can completely
+
+reshape my business model overnight.
+
+So it's something
+
+that I'm always paying
+very close attention to.
+
+One of the things I think about
+
+is what sort of content goes viral,
+
+what sort of content is naturally
+rebroadcast more easily,
+
+what sort of content just
+never really picks up steam,
+
+is under-broadcast
+relative to its importance.
+
+And when I revisited the
+Moral Foundations Theory,
+
+I realized that things
+that tend to go viral
+
+breaches around harm and care,
+
+things that feel very unjust,
+
+somebody's being beaten up on the street,
+
+or there's clear prejudice,
+
+racism or prejudice
+happening against them.
+
+And then issues of
+fairness or reciprocity,
+
+you think of, you know, some
+video of a Karen screaming
+
+at somebody in a Walmart
+or something like that.
+
+I feel like that sort of
+content is over-broadcast.
+
+Like that is disproportionate
+to how often it happens
+
+in reality, in real life.
+
+Whereas when you look at
+things like, you know,
+
+lack of loyalty to an in group
+
+or lack of respect for an authority.
+
+I can't imagine a TikTok for that.
+
+Whereas the first two, I can
+imagine TikToks very easily.
+
+That would have millions
+and millions of views.
+
+But when I think about the other,
+
+it's harder for me to
+immediately envision.
+
+So, harebrained theory is that the content
+
+that violates left leaning
+people's moral norms
+
+or expectations is
+overrepresented on social media.
+
+How crazy is that?
+
+- Oh, no, that's obviously true.
+
+(Mark laughing)
+
+So Twitter has changed a lot
+since Elon Musk took it over,
+
+but until he did that,
+there were all kinds
+
+of analyses of the politics
+of the various platforms.
+
+Twitter leaned way, way left
+
+from its inception
+until Musk took it over.
+
+And Twitter is probably
+the dominant platform
+
+in terms of shaping our perceptions
+
+of what's going on in the world.
+
+It's not just Twitter that leans left.
+
+It's most of the mainstream media.
+
+- So I've been writing
+about this for a long time.
+
+There are natural reasons why people
+
+on the left gravitate to
+cultural institutions,
+
+intellectual institutions,
+
+but then there are additional problems
+
+of prejudice and groupthink.
+
+There are all kinds of,
+
+I've been studying this with
+regard to the academy because,
+
+of course, professors have been.
+
+They've leaned left for a long time.
+
+Something happened in the 21st century.
+
+We went from leaning left
+
+to being overwhelmingly on the left.
+
+Very few conservatives.
+
+So your basic observation
+
+that what you see is
+mostly harm care stuff,
+
+stuff that upsets liberals.
+
+And in our daily life, there's a study.
+
+There was a study done,
+like, they beat people.
+
+Like, you know, just
+what comes up in life.
+
+And, yeah, it's mostly harm and fairness,
+
+because that's the stuff of
+interacting with strangers.
+
+But if you have a good example
+
+of someone being disrespectful,
+
+someone cursing out a teacher,
+
+there was one girl's life was ruined
+
+when she was in Arlington
+National Cemetery,
+
+and the sign said,
+
+"Please be quiet and respectful."
+
+And so she and her friend
+think it'd be funny
+
+to pose with that sign,
+
+giving the finger,
+
+and pretending to scream.
+
+Funny, right?
+
+Okay, well, that's a pretty good way
+
+to get the entire right
+third of the country
+
+to want you dead.
+
+So, you know, I used to
+study taboo violations.
+
+On all these moral foundations,
+
+I can come up with taboo
+violations that will go viral.
+
+- Okay.
+
+- So I wouldn't judge by the frequency.
+
+The frequency and intensity are different.
+
+So what's the harebrained part like?
+
+I actually agree.
+
+You know, it's like,
+it's like common sense.
+
+Like, obviously, most of the work,
+
+most of the most intellectual
+parts of America lean left.
+
+The left dominates all
+
+of the knowledge-creating institutions.
+
+- Well, the harebrained
+part is linking that, right?
+
+So it's like the research
+around social media
+
+and mental health is that the liberals,
+
+there's far worse outcomes
+for liberals when they use it.
+
+And then the harebrained part
+
+is like my anecdotal experience,
+
+I don't have any data on this.
+
+Is that harm and care violations
+and fairness violations.
+
+- That's actually a very good
+insight, because what we see,
+
+I kind of traced that
+with my hands before.
+
+Like, you've got these little
+gaps, and then they widen.
+
+They widen.
+
+So something happened to
+accelerate those differences.
+
+Jean Twenge has shown by looking
+
+at the time-use data and all that,
+
+so I think liberal girls used to use,
+
+they were used to be online, like,
+
+the same as conservative girls.
+
+But in the period we're
+talking about after 2012,
+
+liberal girls go way up
+
+and conservative girls only a little,
+
+in terms of the total time use.
+
+Liberal girls are
+
+by far the biggest
+consumers of social media.
+
+And I think what you're saying
+
+is social media is like catnip
+
+for the liberal brain
+in search of outrage,
+
+and it's not quite as
+effective for conservatives.
+
+Now, of course, they've got, I mean,
+
+you know, 4Chan, 8Chan.
+
+I mean, I don't even know.
+
+There'll be all kinds of,
+
+but on sort of the mainstream, but, right,
+
+I actually agree with
+you that there's some
+
+kind of feedback loop
+
+where social media is particularly tuned
+
+to ruining the left actually, I think.
+
+- And again, this is just,
+we're still anecdotal here,
+
+but I have received hate mail.
+
+So in my sample size of hate mail
+
+that I've gotten over the years,
+
+which is at this point,
+thousands, (laughs)
+
+it's always been interesting
+
+because the hate mail from the right,
+
+they'll call me an idiot.
+
+They'll call me all sorts of bad names.
+
+You're terrible.
+
+You're what's wrong with this country,
+
+blah, blah, blah, blah, blah.
+
+But there's always at the
+end of the email, rather,
+
+there's always kind of this attitude of,
+
+I hope you'll change.
+
+You're a smart guy.
+
+I hope you'll change.
+
+Whereas the hate mail from the left,
+
+first of all, it's always around harm.
+
+It's like this thing you
+wrote is harming people.
+
+You are morally responsible.
+
+You're part of the problem.
+
+You should delete the thing you wrote.
+
+You should delete the article.
+
+You should delete the book chapter.
+
+You should delete the podcast.
+
+And you should stop.
+
+You should stop being in public.
+
+- Well, that's cancel culture right there.
+
+You should disappear.
+
+You need to.
+
+And if you won't disappear,
+you need to be disappeared.
+
+We need to stop you.
+
+- It's interesting,
+
+and now we're getting
+a little bit off topic,
+
+but it's interesting
+
+because when I was a kid in the nineties
+
+and early 2000s, the left was,
+
+it felt like the left
+was the optimistic side
+
+of the political spectrum.
+
+The left was pro-technology.
+
+The left was,
+
+things are going to change.
+
+They're going to be different.
+
+They're going to be better.
+
+And again, somewhere around
+this area, early 2010s,
+
+it feels like that flipped.
+
+- Yeah.
+
+There was an interesting article.
+
+Derek Thompson had an interesting article
+
+in "The Atlantic" on, why is
+it mostly the Anglosphere?
+
+Because, and I've done a lot of,
+
+Zach and I have done a lot
+
+of research showing here are
+the five Anglosphere nations.
+
+Boy, are they, I mean,
+
+they're doing exactly the same thing
+
+at the same time.
+
+Like, whatever it is that
+caused this in America,
+
+girls started checking
+into psychiatric wards
+
+in New Zealand, at the
+same time in Australia.
+
+So the anglosphere is standing out
+
+as we used to be among the
+happiest countries in the world,
+
+and now our kids have really fallen.
+
+But it isn't just the anglosphere.
+
+I think Derek overstated the degree
+
+to which it's just the anglosphere.
+
+It's especially Protestant countries,
+
+which are the freest,
+
+Catholic countries and
+Eastern orthodox countries
+
+in Europe are more binding.
+
+So I think there is something
+to what you're saying.
+
+It is an amplifier.
+
+- Yeah.
+
+You jumped ahead to my
+next question, which was,
+
+I wanted to get into the
+international question,
+
+which is predominantly Anglo,
+Nordic to a lesser degree,
+
+or Northern Europe to a lesser degree.
+
+But when you look at Eastern Europe,
+
+especially when you look
+at, like, East Asia,
+
+you don't see it at all.
+
+- Right, because,
+
+so, but look at it this
+way, what Zach has found,
+
+because he had got there, you know,
+
+there's international data,
+
+there's a few studies.
+
+It's not nearly as
+plentiful as American data.
+
+But when you go through what is HBSC, HSC,
+
+I forget the name of the,
+
+data on teens is very
+scarce internationally.
+
+- Yeah.
+
+- What Zack found is that the one region
+
+where we had data in Europe,
+
+the one region that's
+getting more religious
+
+is Eastern Europe.
+
+Now, Eastern Europe was a miserable place
+
+for many, many decades.
+
+And so in some sense,
+
+Eastern Europe is joining the world.
+
+Things have been getting
+better for the most part,
+
+and also they've been
+getting more religious
+
+because religion was suppressed.
+
+So again, we think religion
+has a lot to do with it.
+
+Now, East Asia is a miserable place.
+
+I mean, the kids are miserable.
+
+I spent some time in Korea.
+
+In Korea, there has not
+been childhood for 50 years.
+
+All they do is study for exams.
+
+I mean, there's no childhood.
+
+It's horrible.
+
+They have very high suicide rates,
+
+but they are communal and collectivist.
+
+So it fits perfectly
+with my theory to say,
+
+when the tidal wave came,
+
+we don't see the big increases
+
+in mental illness in East Asia
+
+that we saw in the rest
+of the developed world.
+
+So again, I think all of
+this fits with the idea
+
+that community is very, very protective.
+
+- Yeah, I went,
+
+I don't know if you're
+familiar with Geert Hofstede.
+
+- Oh, yeah.
+
+- Cultural dimensions theory.
+
+So I went and looked up one
+of his cultural dimensions
+
+is individualism versus collectivism.
+
+I was curious.
+
+I went and looked up the
+most recent measurements
+
+of the most individualistic countries.
+
+Tell me if these sound familiar.
+
+United States, number one.
+
+Australia, United Kingdom, Canada,
+
+Netherlands, New Zealand.
+
+And then a smattering of
+European countries after that.
+
+- Keep going.
+
+- Hungary, which is interesting.
+
+Italy, Belgium, Denmark,
+France, Sweden, Ireland.
+
+That's as far as I went.
+
+- Okay, so that's interesting.
+
+So the Scandinavians are, it's variable.
+
+Scandinavia is not what people think.
+
+I mean, in some ways,
+
+Scandinavia grants kids
+incredible autonomy
+
+to make their own lives.
+
+So I'm surprised that they didn't appear
+
+as more individualistic on that.
+
+But it's variable.
+
+But yes, Zach looked into,
+
+when he looked at the European countries,
+
+is it religion that matters?
+
+Is it GDP?
+
+Is it change in GDP?
+
+Is it individualism?
+
+All of them matter,
+
+because all of them are
+also cross correlated.
+
+So, yeah, so all of that stuff matters.
+
+But actually, let me make another point
+
+about the international differences.
+
+This entire debate has been
+carried out with one set
+
+of dependent variables, one
+set of outcome variables,
+
+which is mental health, mental illness.
+
+But when you look
+
+at what a phone-based
+life does to your child,
+
+even if your kid is not
+depressed or anxious,
+
+very few parents would say, "Oh, well,
+
+as long as they're not
+depressed, anxious, it's okay.
+
+I don't mind if he never
+reads another book.
+
+I don't mind if he sits indoors all day,
+
+doesn't get any nature.
+
+I don't mind if he can't
+pay attention to anything,
+
+as long as he's not
+depressed and anxious."
+
+Like, no, we want a lot for our kids.
+
+We don't want them to just be on the phone
+
+and screens all day long.
+
+So even in countries
+where, like, in Spain,
+
+is one of the only European countries
+
+where anxiety and
+depression did not go up.
+
+But in Spain, everybody
+sees the problem, too,
+
+because it's not just
+about anxiety depression.
+
+It's like our kids can't,
+
+you know, they can't make eye contact,
+
+the boys can't make eye contact.
+
+Kids have trouble paying attention.
+
+Look, we grown ups have
+trouble paying attention
+
+because our phones
+
+and our screens and
+everything's interrupting us.
+
+So once you broaden the
+set of outcome variables
+
+and say, "This isn't just an argument
+
+over which line goes up
+
+on depression, which doesn't.
+
+This is a complete transformation
+
+of how you exist on this planet."
+
+It happened in five years, 2010 to 2015.
+
+Our kids are not thriving,
+
+even those that are not mentally
+ill, I think they're not,
+
+on average, not achieving levels
+
+of flourishing that they would have
+
+if they had a normal childhood.
+
+- To that point, I don't
+have the exact numbers.
+
+I didn't write them down.
+
+But I've seen data before of
+standardized testing worldwide.
+
+- Yep, there you go.
+
+- And it's every,
+
+going back decades, every
+generation is smarter,
+
+gets higher test scores.
+
+- [Jonathan] Yeah, the Flynn effect.
+
+- It gets higher test scores
+than the years before.
+
+And in the late 2010s, it stops.
+
+- No, not late 2010s, 2012.
+
+2012 is the turnaround.
+
+- 2012, okay.
+
+And it stops.
+
+And that is cross-cultural
+as I understand it.
+
+- That's right.
+
+It's global.
+
+And so the first sign of this
+was what's called the NAEP,
+
+the National Assessment
+of Educational Progress.
+
+It's called the nation's report card.
+
+And it made big news,
+like a year or two ago
+
+when it was clear that
+we saw these graphs.
+
+Look how much we lost during
+Covid, and that's true.
+
+When you close down schools,
+
+which we should never have done.
+
+You close down schools for
+years in some cases, yeah,
+
+the kids have learning loss.
+
+But what I saw in those graphs was,
+
+it wasn't like we were making
+steady progress till Covid.
+
+No, we were making steady progress
+
+from the seventies through 2012.
+
+And then it starts going down.
+
+And the loss from Covid was a
+little bit larger on average,
+
+depending on the field,
+
+than the loss from 2012 to 2020.
+
+But that was quite substantial.
+
+For every generation for 100 years,
+
+we've been getting smarter and smarter.
+
+Better education, better healthcare.
+
+The Flynn effect.
+
+IQ literally has been going up.
+
+That stopped.
+
+Okay, so that's the American data.
+
+Then there's also the PISA data,
+
+the Program on International,
+whatever, scholastic.
+
+I forget what it is,
+
+but it's the global
+assessment of educational.
+
+- I think that's the one I saw, yeah.
+
+- And that is also astonishing.
+
+There it doesn't go back far
+enough to see the long rise.
+
+But, and this is what Derek Thompson had
+
+in a previous article was,
+
+you can see right at 2012,
+
+it's taken every, I think, three years.
+
+Right at 2012, everything starts to drop.
+
+And so think about it this way.
+
+I'm locked in this argument
+with other researchers,
+
+about what percentage of
+the variance is explained
+
+by the raw number of hours?
+
+(Mark laughing)
+
+And the effect sizes are tiny here,
+
+and we're all arguing about that.
+
+And at the same time,
+all around the planet,
+
+young people, an entire
+generation, is less intelligent
+
+and less educated than
+the previous generation.
+
+And not all around the planet,
+
+but in a third or a half of
+the planet, young people,
+
+especially girls, are more
+depressed and anxious.
+
+And so I think what's happening here
+
+is the largest destruction
+of human capital.
+
+I mean, I can't say in history,
+
+because obviously World War I
+
+and World War II destroyed it.
+
+But in terms of what has ever
+destroyed human potential
+
+around the world, other
+than the world wars?
+
+- Probably nonviolent
+destruction of human capital.
+
+- That's right.
+
+That's right.
+
+I mean, bubonic plague was really bad,
+
+but that was a Eurasian thing.
+
+(Mark laughing)
+
+That didn't hit the
+Americas, I don't think.
+
+It didn't, you know, it
+was a Eurasian thing.
+
+But, yeah, so this is not
+just about depression.
+
+This is about the global
+destruction of human capital
+
+in young people.
+
+- Okay.
+(upbeat music)
+
+This episode is sponsored by BetterHelp.
+
+This whole episode,
+
+we've been talking about
+technology and mental health.
+
+And, look, it's something
+that we all struggle with
+
+to a certain extent.
+
+When it all gets to be
+a little bit too much,
+
+you feel lost and alone or
+just overwhelmed by the world,
+
+BetterHelp can, well, help.
+
+BetterHelp is a reminder therapy service.
+
+They can connect you to over
+35,000 licensed therapists
+
+who can help keep you tethered to reality.
+
+For me, therapy was like
+kind of having, like,
+
+a backstage pass to my own mind.
+
+Like, just seeing all the crazy shit
+
+that was going on back there
+
+helped me uncover hidden strengths,
+
+discover new ways to handle stress.
+
+Basically, I just became
+a lot more self aware,
+
+and I learned how to prioritize
+what really matters to me.
+
+So if you've ever thought
+about trying therapy
+
+but just didn't feel like you
+had time to get in the car
+
+and go somewhere, why not
+give BetterHelp a try?
+
+It's completely online.
+
+You can do it from anywhere.
+
+You can do it on your
+couch, in your office.
+
+You know, hell,
+
+I guess you could even sit
+on the toilet if you wanted.
+
+Just fill out a brief questionnaire.
+
+You'll get matched to
+a licensed therapist,
+
+and you can switch therapist
+anytime you want to
+
+without extra costs.
+
+So find some balance.
+
+Get BetterHelp.
+
+Betterhelp.com/IDGAF to get
+10% off your first month,
+
+that is BetterHelp.com/IDGAF.
+
+- I mean, it's just unbelievable to me
+
+that we allow kids to bring
+a smartphone into class
+
+in their pocket.
+
+You know, when I was a kid in
+the seventies, if they said,
+
+"You can bring in your TV,
+
+you can bring in your VCR,
+
+you can bring your walkie talkies,
+
+you can bring in your banjo,
+
+you can bring your painting set,"
+
+you know, like that iPad commercial.
+
+Like, every possible entertainment
+thing is crushed down
+
+into an iPad or an iPhone.
+
+How about if you bring all of it in?
+
+You can use it during class.
+
+Just wear your headphones
+
+so that you know you're
+not bothering other people.
+
+Although actually, sometimes you do.
+
+So it's completely insane
+
+that kids are holding
+smartphones in class.
+
+- Funny story about that.
+
+So I went to, I'm from Austin, Texas,
+
+and I went to high school
+with Michael Dell's kids.
+
+- Okay.
+
+- And this was around 2000, '99, 2000,
+
+and everybody was really
+excited about technology.
+
+And so the school
+announced a joint venture
+
+with Dell computers.
+
+- "Every kid should have
+their own computer!"
+
+- Exactly.
+
+- That's what we thought in the nineties.
+
+We were so wrong!
+
+- Exactly.
+
+And so every kid in the high
+school, every kid got a laptop,
+
+and we started taking
+laptops in every class,
+
+and we take notes on it.
+
+Within two months, every teacher hated it.
+
+Every single teacher was like,
+
+I remember I had a history
+teacher who used to say, like,
+
+"All right, pull out your $3,000 pencil."
+
+- Wait, were you all
+connected to the Internet?
+
+- [Mark] Yes.
+
+- And the thing, I presume if
+they hated was the Internet,
+
+because it wasn't that you were typing,
+
+it was that you were browsing,
+
+you were doing things well.
+
+- And the funny thing was, was initially,
+
+we had access to the Internet
+so we could go research
+
+and cross reference all sorts
+
+of stuff while the teacher was talking.
+
+Of course, all the kids just
+ended up on gaming sites.
+
+- And porn.
+
+And I'm sure there was porn.
+
+- Oh, tons of porn.
+
+Instant messaging each other.
+
+It was a disaster.
+
+And so then they started taking away wifi
+
+within certain class.
+
+Like, teachers could request
+to have the wifi taken out
+
+of certain classrooms,
+
+but then kids just downloaded
+games onto their computer,
+
+and it also started to
+feel like a $3,000 pencil.
+
+Like, it started to feel
+ridiculous that, like,
+
+why am I typing this
+
+when I could just write in my notebook?
+
+So within this, by the next school year,
+
+they were pretty much all gone.
+
+- From your school?
+
+- From my school.
+
+- But what happened around the country
+
+was the belief that there was,
+
+what was it called?
+
+The something gap.
+
+The idea was all the rich
+kids have computers at home
+
+and the poor kids don't.
+
+So we have to close the,
+
+what was the name of it?
+
+We have to close the something gap.
+
+And so it's a matter of
+vital political importance
+
+that we give that we get laptops
+
+or iPads into every classroom, one-to-one.
+
+And, of course,
+
+the schools where the tech
+people send their kids to,
+
+like the Waldorf School of the Peninsula,
+
+they don't allow any tech at all.
+
+There's a computer room so
+they can learn how to program,
+
+but they understand the importance
+
+of paying attention in class.
+
+So the rich kids have
+more controls on them,
+
+they have less technology in school,
+
+whereas the lower SES kids,
+
+their schools are stuffed with free iPads.
+
+I assume they're free, I don't
+know, Chromebooks and iPads,
+
+because the tech companies, of course,
+
+they want to hook the
+kids early on their brand,
+
+whether it's Apple or Android or whatever.
+
+So, yeah, it was a huge mistake.
+
+- Yeah, yeah.
+
+- And that just.
+
+And that might be.
+
+So intelligence and learning
+are going down since 2012.
+
+We don't know that that's
+because of the phones
+
+or because of the Chromebooks and iPads.
+
+I really don't know.
+
+All we know is that beginning around 2012,
+
+kids could not pay attention in school,
+
+and loneliness in school goes up then,
+
+because kids are not paying
+attention to each other.
+
+And when a school goes phone-free,
+
+one of the universal things
+they say, most common,
+
+is we hear laughter in
+between classes now.
+
+It used to just be silent.
+
+- Yeah, okay.
+
+I want to throw another analogy at you,
+
+and feel free to completely
+just refuse to accept it.
+
+But I do think it raises
+an important distinction
+
+that is worth talking about.
+
+Cigarettes versus alcohol.
+
+Cigarettes, it's bad for everybody.
+
+It's bad no matter how,
+
+whether you smoke 5 or 10 or 20.
+
+The more you smoke, the
+more it's bad for you,
+
+regardless of who you
+are or where you're from.
+
+Alcohol.
+
+The majority of people
+who consume alcohol,
+
+- Yeah, love it.
+
+- It doesn't really
+affect them negatively.
+
+They're completely functional.
+
+They're completely happy.
+
+It maybe makes their
+life a little bit better,
+
+but there's a small minority
+that the outcome is so negative
+
+and so bad that it could
+potentially skew the overall data.
+
+So my question to you is
+social media and phones,
+
+is it cigarettes or is it alcohol?
+
+- It's much more alcohol.
+
+- Okay.
+
+- But let's go with the alcohol analogy.
+
+So, first of all,
+
+alcohol doesn't just
+affect those who drink it.
+
+The reason why we wasted two amendments
+
+to the US Constitution is not
+
+because some people are getting drunk,
+
+and isn't that a shame?
+
+They're hurting themselves.
+
+It's because they were beating their wives
+
+and gambling away all the money.
+
+So alcoholics ruined not
+just their own lives.
+
+They put an incredible toll on,
+
+especially on women and children.
+
+- And it's illegal for teenagers. (laughs)
+
+- That was my next point.
+
+Yes.
+
+And we have warning labels
+on it, because if you drink,
+
+you are harming your fetus.
+
+So, you know, look, I have a
+lot of libertarian sympathies.
+
+You know, part of "The Righteous Mind"
+
+was you need the wisdom
+of the liberal impulse,
+
+the conservative impulse,
+and libertarian impulse.
+
+You need a good society,
+
+you need all three of them speaking up
+
+and making their arguments.
+
+So I don't think I've ever said anything
+
+about limitations on what adults can do.
+
+I'm not saying we should
+ban social media for adults.
+
+There are some issues
+
+about identity authentication
+that would be helpful
+
+in certain things,
+
+but I'm not telling adults what to do.
+
+But at the same time,
+
+I'll be damned if the
+most powerful companies
+
+in the world have every legal right
+
+to grab my kids without my knowledge,
+
+get data from them, harm them,
+
+they have perfect
+protection against lawsuits.
+
+I can't even sue them for
+what they do to my kids.
+
+I mean, this is a
+completely insane situation.
+
+So, I'm guessing you
+brought that up in part
+
+because the Surgeon
+General last week called
+
+for warning labels on social
+media, saying something like,
+
+"Social media can be harmful
+
+to the mental health of adolescents."
+
+Something like that.
+
+I think he's absolutely
+right, and here's why.
+
+In fact, just this morning,
+preparing for an interview,
+
+I just looked up on a whim and said,
+
+"Okay, how many kids
+actually choke to death
+
+in this country from toys?"
+
+The answer, according
+
+to the Consumer Product Safety Commission,
+
+is something like a dozen.
+
+About a dozen kids.
+
+No, no, it's less than that.
+
+About a dozen kids a year
+
+in this country are killed by a toy.
+
+Now, thousands and thousands,
+
+hundreds of thousands, I
+think, go to the hospital.
+
+There are injuries, but
+death, it's about a dozen.
+
+And they said the majority
+of those are choking.
+
+Okay, we put warning labels on toys
+
+that a kid can choke on
+
+because we want parents to pay attention.
+
+Like, even though it's very rare,
+
+six or seven kids a year will
+choke to death from toys.
+
+Okay, what about social media?
+
+Well, let's just look at choking.
+
+How many kids choke to death every year
+
+because of social media?
+
+There's the choking challenge.
+
+Can you wrap something around
+your neck until you pass out
+
+and videotape it on your camera,
+
+and then when you come out
+
+of the unconsciousness, you post it?
+
+Isn't that amazing?
+
+Like, what an insane thing to do!
+
+(Mark laughing)
+
+Okay, but this is a viral video challenge.
+
+And how many kids have choked to death?
+
+We can't get a clear
+number, but the estimate,
+
+Bloomberg covered something or other.
+
+The estimate was around
+a dozen in the last year,
+
+so it's in that ballpark.
+
+My point is, about a dozen
+kids have choked to death
+
+just on TikTok,
+
+which is more than have choked to death
+
+on all the toys combined, all other toys.
+
+So I think it might be reasonable
+
+to put a warning label on TikTok.
+
+"Warning.
+
+This could lead to you
+choking yourself to death."
+
+Now, I'm kidding.
+
+You don't want that warning.
+
+But I want to give a sense of scale here.
+
+Choking deaths are a tiny,
+
+tiny portion of the deaths
+related to social media.
+
+Mostly it's suicide.
+
+It's overwhelmingly suicide.
+
+Let's take sextortion.
+
+Hundreds of thousands of boys
+are sextorted every year.
+
+And the FBI looked into,
+I think, 15,000 cases
+
+in which they found 20 suicides
+
+that were directly
+related to the sextortion.
+
+- Yeah.
+
+For people who don't know, sextortion,
+
+it's somebody will create account
+
+with a really beautiful woman.
+
+- Very sexy, always very sexy.
+
+- Scantily clad, message the guy,
+
+send a bunch of, you know.
+
+- Racy photos.
+
+- Yeah, exactly.
+
+And then ask for a dick pic.
+
+And then once they have the dick pic.
+
+- With the dick and the face.
+
+So the face and the dick.
+
+- And the face, face and the dick,
+
+and then once they have that, then they,
+
+- They reveal, I know all your contacts,
+
+'cause you and I are connected
+on Snapchat or Instagram.
+
+And so this obviously
+is the most horrible.
+
+I mean, this is, you know,
+and it's always a boy.
+
+Girls don't fall,
+
+girls are not so stupid
+(Mark laughing)
+
+as to believe that this random, you know.
+
+- A random hot girl is
+gonna message them. (laughs)
+
+- Yeah.
+
+So my point is, just
+the suicides, you know,
+
+the FBI identified 20, so
+it's probably hundreds,
+
+because we don't even know.
+
+So we look at all the parents
+whose kids committed suicide
+
+after sextortion, after bullying.
+
+Now, we're easily up into the hundreds.
+
+So if we have a consumer product
+
+that was not made for children,
+
+it seems to be harming lots of children,
+
+it's killing hundreds and
+hundreds of children a year,
+
+and these companies cannot be sued,
+
+and there's no warning anywhere.
+
+So it's like, can you
+imagine any other product
+
+anywhere on economy
+
+that kids were using five hours a day,
+
+which is the average, five hours a day.
+
+Hundreds and hundreds were
+dying, millions were depressed,
+
+tens of thousands were,
+
+I don't know what the
+number, the ballpark figure,
+
+tens of thousands checking
+into emergency rooms
+
+for self-harm.
+
+Like, this is beyond,
+
+this is you take all the toys in the world
+
+and multiply them by a thousand,
+
+you don't have the level
+of damage being done
+
+by social media.
+
+- Yeah, yeah.
+
+And not to mention all the
+things like the sextortion
+
+or the cyberbullying that
+can be enabled through it.
+
+Yeah, the cigarette and alcohol thing,
+
+I think is that's a
+little bit more selfishly
+
+like my industry.
+
+- What do you mean?
+
+- Well, in the self-help world,
+
+it's people deal a little bit
+too much in absolutes, right?
+
+So it tends to be like, you know,
+
+there's a small minority
+
+of people that social media is
+a real problem in their life,
+
+they're addicted to it,
+they're hooked to it,
+
+it makes them miserable.
+
+And so, yeah, they probably
+should either cut way back
+
+or cut it out entirely.
+
+But, you know, the majority
+of adults are probably okay,
+
+or as long as the usage is moderate,
+
+then it's probably okay.
+
+But that's not a sexy
+message that gets lots
+
+of clicks on Twitter, so.
+
+- Yeah, but it does work
+perfectly for social media,
+
+because there are many benefits
+
+to social media for adults.
+
+- Yes.
+
+- So they were originally
+social networking systems.
+
+There are lots of reasons why adults need
+
+to talk to strangers and get
+their message out to strangers.
+
+And in your industry,
+
+it's all about reaching
+out to a broad public.
+
+What the hell need does
+an eleven-year-old have
+
+to talk to strange men around the world?
+
+(Mark laughing)
+
+Like, what networking are they doing?
+
+- Yeah.
+
+And I think what people haven't,
+
+it has not caught up with the public yet
+
+that social media used to be mostly social
+
+and a little bit of media,
+now it's mostly media.
+
+Like, now it's 95% of my social media use
+
+has nothing to do with the
+people I know in my life.
+
+- That's right.
+
+So the big change,
+
+so the big change happens
+from the newsfeed.
+
+So originally these things
+
+were called social networking systems,
+
+and that's what they
+were referred to, SNS,
+
+social networking systems,
+because the original ones,
+
+I think Friendster was the first, MySpace,
+
+and they come in very quick
+succession around 2003, 2004.
+
+So you got MySpace, Friendster,
+and then The Facebook,
+
+which becomes Facebook,
+
+those are the big ones early on,
+
+and they're just about connecting.
+
+And this is 2004, 2005
+we're talking about.
+
+And the experience in the
+nineties was so amazing.
+
+The Internet is so amazing.
+
+And here's another amazing application.
+
+And then you get Uber.
+
+You can just press a button and a taxi,
+
+a car will appear magical.
+
+It's all magical.
+
+- Yeah.
+
+- And what we didn't realize,
+
+changing under our noses was
+the arrival of the news feed,
+
+and then the like button and the share,
+
+the share and the retweet button.
+
+Now, it's not about me
+checking in with you,
+
+or me saying, "Hey, here's my puppy."
+
+And you say, "Oh, he's adorable."
+
+Okay, that's a kind of connection.
+
+It's not about that.
+
+It's now about the newsfeed
+of stuff coming in.
+
+And it's 2009 that we get the
+like and the retweet button.
+
+That is the beginning of super virality.
+
+And now, as you just said,
+
+it's really much more about
+the newsfeed and broadcasting.
+
+And so now we don't call them SNS.
+
+Nobody's heard the abbreviation
+SNS in a long time.
+
+They're called social media platforms.
+
+A platform is what you can
+stand on and yell and scream.
+
+And imagine a world
+
+in which instead of us
+talking to each other,
+
+everyone is on a platform
+yelling and screaming.
+
+Is that a world you want to live in?
+
+Whether the answer is yes or no,
+
+is that what you want to
+do to your eleven-year-old?
+
+And I think the answer is no.
+
+- Yeah, I like the alcohol comparison
+
+as well, because it is,
+
+nobody debates that an eleven-year-old
+
+should not be drinking.
+
+- That's right.
+
+- Like, there's no parent
+on earth that would even,
+
+you know, would watch little
+Susie drinking in the backyard
+
+and be like, "Oh, well,
+she seems occupied.
+
+She's gonna be fine."
+
+- Let's go even beyond that,
+
+because this is a very, very,
+
+this is like the most
+important thing we have to do.
+
+The most important thing we have to do
+
+to really get out of this.
+
+Well, there's several
+things which we'll get to,
+
+but in terms of legal or
+legislative, it's age gating.
+
+We have to have age gating.
+
+There's none right now.
+
+As long as you're old enough to lie,
+
+you're old enough to be on Pornhub,
+
+to have 50 Instagram
+accounts, TikTok, anything.
+
+Imagine if we said,
+"The drinking age is 21,
+
+but we can't expect bar
+owners to check IDs.
+
+No, no.
+
+Look, if you don't want your
+kid to drink, it's up to you.
+
+You're the parent.
+
+You exercise responsibility."
+
+And if you run a gambling casino
+
+and you're luring in kids with candy
+
+and you get them on slot
+machines that have superheroes,
+
+it's the parents' responsibility.
+
+What, are we going to do,
+
+have them check ID at the door?
+
+Are you crazy?
+
+We can't do that.
+
+It's the parents' responsibility.
+
+That's obviously insane.
+
+But that's where we are.
+
+It's become normal.
+
+Now, it's the case,
+
+fourth and fifth graders
+are getting smartphones.
+
+I was just in the UK,
+a quarter of their five
+
+to seven-year-olds have a smartphone.
+
+- Wow.
+
+- Now, I don't know if they're,
+
+not that they're on TikTok just yet,
+
+but they'll be there by
+the time they're nine.
+
+So, you know, it's like, you know,
+
+it's as though we're saying, you know,
+
+"How about if fifth graders,
+
+fourth graders have drinking parties
+
+and spend all day drinking?"
+
+That's going to interfere
+with brain development.
+
+- Is there any data on
+platform by platform,
+
+like, which ones are the worst offenders?
+
+- Yeah, surprisingly, not much.
+
+Usually studies are just asking,
+
+"How much social media do you use?"
+
+And then it's a very crude measurement.
+
+When there are contrasts, in general,
+
+so there are a few studies.
+
+So we have these huge,
+long lists of studies,
+
+if you go to
+AnxiousGeneration.com/reviews.
+
+So one of our Google
+Docs has all the studies
+
+on social media and mental health.
+
+One study compared Instagram to Facebook
+
+to solving a puzzle.
+
+And Instagram was much worse
+than Facebook, for girls.
+
+I don't know if they
+had boys in the study,
+
+so I think Instagram is
+particularly bad for girls.
+
+What I'm coming to see,
+
+we don't have much research
+on this because it's so new.
+
+Most of the research was done on Facebook
+
+or Facebook and Instagram.
+
+Instagram came out 2010
+and popular in 2012,
+
+but really what dominates
+kids' lives now is TikTok
+
+and then the short form video,
+
+and then, of course,
+
+YouTube Shorts and Instagram Reels.
+
+They copy TikTok.
+
+So you got these three short-form videos.
+
+I have not seen any research on it,
+
+but what I'm learning
+
+from talking to my students
+is this is the worst.
+
+This is like the worst stuff out there.
+
+So, parents, if you're listening to this,
+
+don't keep your kid
+away from the Internet.
+
+Don't give it to them in their pocket.
+
+But if you want to be discerning
+
+about what you let your kid
+do when your kid's 12, 13, 14,
+
+keep them the hell away
+from the short-form videos,
+
+because the key distinction
+is that stories are good.
+
+Humans live in stories.
+
+We've always told stories.
+
+As long as we had
+language, we told stories.
+
+Whole societies are based on giant,
+
+long stories committed to memory.
+
+Netflix is good.
+
+I asked my students,
+
+"How many of you watch
+Netflix every week?"
+
+Almost everybody.
+
+"How many of you wish
+Netflix was never invented?"
+
+Nobody, nobody.
+
+Stories are good.
+
+I asked them, "How many
+of you watch TikTok
+
+or one of those short forms?"
+
+The great majority.
+
+Not all, but the great
+majority watch them.
+
+"How many of you wish
+it was never invented?"
+
+Most of them.
+
+- Wow.
+
+- So the short form videos,
+
+they're designed to give
+you quick, cheap dopamine,
+
+variable ratio reinforcement schedules,
+
+rapid turnaround between behavior,
+reward, behavior, reward,
+
+on a variable ratio schedule.
+
+No redeeming value.
+
+Depending on what you click on,
+
+your feed might be just positive stuff,
+
+which is still a huge waste of time,
+
+but for a lot of the boys,
+
+again, I don't have data on this,
+
+but I'm just asking boys about this.
+
+A lot of the boys are seeing
+people getting run over by cars
+
+and drug cartels.
+- Oh, yeah.
+
+- I mean, you're older, but do you?
+
+- Stuff like that pops up on my feed too.
+
+Somehow TikTok search serving me,
+
+like, police brutality stuff.
+
+And I was like,
+
+"Guys, this is not what
+I'm here for." (laughs)
+
+I don't know what the algorithm thought.
+
+- But at least police brutality,
+
+you might think there's
+some political interest.
+
+Like this at least is relevant
+to public policy issues.
+
+But videos of Mexican drug cartels
+
+dismembering a person who is alive.
+
+- I've seen people get shot.
+
+- I mean, this is just horror.
+
+- It comes out of nowhere, too, sometimes.
+
+It's interesting because
+one of my frustrations,
+
+as you mentioned, so
+much of this research,
+
+it started on Facebook.
+
+It takes a long time to
+produce good research.
+
+There's a lag time.
+
+And I think social media
+evolves so quickly.
+
+One of the things that worries me
+
+about this body of
+research is that, to me,
+
+the big change came with the
+For You feed on everything.
+
+- [Jonathan] I don't use that.
+
+- And it was pioneered by TikTok.
+
+Like, it is kind of
+what made TikTok TikTok,
+
+is, you know, up until TikTok,
+
+all the platforms,
+
+they would look at who your friends were.
+
+- Right, right.
+
+- The authors you followed.
+
+- [Jonathan] TikTok didn't care.
+
+- The celebrities that you liked.
+
+- [Jonathan] Yeah, a social network.
+
+- Right, and it would recommend
+
+based on your social network,
+
+TikTok, it took, they
+call it a psychograph
+
+instead of a social graph.
+
+They took your psychograph.
+
+They're like, "Oh, well, he's a fan of,
+
+Brad Pitt and likes
+Quentin Tarantino movies,
+
+so he's probably gonna enjoy
+
+this police brutality video."
+
+- Right, yeah.
+
+- And that's where I think
+the real rabbit hole started.
+
+And then since then, really post-pandemic,
+
+every other platform has copied
+the For You feed's design,
+
+and so now we're all being recommended.
+
+That's really where it turned
+into more media than social.
+
+So now it's more similar to television,
+
+where I would come home from school.
+
+I didn't know what was on.
+
+I would just turn on the TV,
+
+and whatever was being shown to me,
+
+that's what I'd sit there and watch,
+
+and it becomes a very passive experience.
+
+- Yeah, that's right.
+
+- And there's a real
+psychological difference
+
+between that passivity.
+
+- That's right.
+
+There's a huge difference.
+
+Andrew Huberman helped me figure this out.
+
+I was on his podcast about a month ago,
+
+and I asked him to elaborate on some
+
+of the things that I say in the book
+
+about neural development
+
+and puberty and dopamine and addiction.
+
+And he pointed out the difference
+
+between sort of the speed of reinforcement
+
+and what, I forget if this was his word,
+
+but, like, cheap dopamine
+versus hard-earned dopamine.
+
+And so if you are working at something,
+
+and then you get a reward,
+
+that feels great,
+
+that's like slow.
+
+It's sort of like the difference
+
+between eating nuts and legumes,
+
+and you know, carbs
+that are slow to digest
+
+and very healthy,
+
+versus straight sugar or,
+
+- [Mark] Processed sugar, yeah.
+
+- Processed sugar, yeah.
+
+And so, in the same way,
+watching Netflix, I mean,
+
+the quality of stories on Netflix
+
+is so much greater than when I was a kid.
+
+- Yeah.
+
+- You know, when I was a kid,
+like, I tried to show my kids,
+
+you know, when they were younger, like,
+
+"I Dream of Jeannie"
+and "Gilligan's Island,"
+
+and they say, "This is stupid!
+
+This is so stupid!"
+
+(Mark laughing)
+
+So the quality of stories
+has gotten much, much better.
+
+But that's more like whole
+grain, healthy stuff.
+
+You're watching a story, you
+may be learning something.
+
+And, like, reading a novel,
+you're having human experiences.
+
+Whereas the short-form,
+as Huberman pointed out,
+
+if you're just getting that
+real quick, quick, quick.
+
+And TikTok, I guess
+what I'm hearing you say
+
+is the For You feed,
+
+that was how TikTok basically engineered,
+
+we're going to find the fastest way
+
+to give you a little bit of dopamine.
+
+And if you have a constant
+supply of dopamine,
+
+your brain is going to adapt to that,
+
+and your brain is going to down regulate
+
+so that now it takes more dopamine
+
+to get back to the same point.
+
+- Yeah.
+
+- So, again, your original
+question here was,
+
+are the platforms all the same,
+
+or are there some differences?
+
+Hell, yeah.
+
+For social comparison and girls,
+
+Instagram is probably the worst.
+
+For drug deals and nude pics,
+
+I'd say Snapchat.
+
+I mean, it's kind of
+designed for that, it seems.
+
+(Mark laughing)
+
+And for just, you know,
+
+messing with your dopamine circuit,
+
+and sucking up five hours a day,
+
+I'd say TikTok and its
+copiers are the worst.
+
+- Yeah.
+
+- Again, if adults want
+to do this, you know,
+
+adults can go gamble.
+
+They can drink, they can smoke,
+they can do what they want.
+
+But, I mean, I cannot believe
+
+that these companies
+can get to my children.
+
+Now of course I have rules,
+
+but unless I keep them away
+from web browsers everywhere,
+
+I can't be sure that they
+haven't created accounts.
+
+I mean, I trust them,
+
+but I know that I can't fully trust them.
+
+- Yeah, all right, let's
+get into the prescriptions.
+
+You have four primary
+prescriptions in the book.
+
+First one is no phones in schools.
+
+We've already kind of gone over that.
+
+That just seems like
+the most commonsensical.
+
+- And that's happening
+all over the country,
+
+all over the world now.
+
+What sort of,
+
+'cause I know you've
+posted quite a bit results
+
+of schools that have
+experimented with this.
+
+Like, what sort
+
+of results are schools seeing
+when they get rid of phones?
+
+- So there's very little research on this.
+
+Like, with control conditions,
+there's very little,
+
+but what we find whenever
+school does go phone-free,
+
+what they find is that while
+the kids sometimes resist
+
+at first, by a week or two in,
+
+the benefits are so big that
+even the kids themselves say,
+
+"Hey, wow, this is more fun.
+
+Like, we're actually
+talking to each other."
+
+So, the teachers love it.
+
+I don't know of any school
+
+that ever went phone-free
+and regretted it.
+
+Sometimes there's pushback from parents,
+
+because some parents want
+
+to be able to text with
+their kids during class.
+
+But that's not a legitimate
+desire, in my opinion.
+
+So what we hear is there's
+better attention in school,
+
+better attention in
+class, better social life,
+
+and the kids are so lonely.
+
+Gen Z is the loneliest
+generation in history.
+
+Once you hook everybody up electronically,
+
+the time has to come from somewhere.
+
+It comes from the people around you.
+
+So when in 2012,
+
+when everybody started bringing
+a smartphone into class,
+
+they stopped talking to
+the kid next to them,
+
+so they're lonely in school.
+
+When a school goes phone-free,
+they're less lonely.
+
+They have better friendships,
+there's more fun,
+
+more excitement.
+
+So this is just like magic.
+
+And there really is no
+argument against it.
+
+It was just that schools,
+
+many principals were afraid
+
+to anger the parents that would object.
+
+- And is this something that
+principals can do on their own?
+
+Like, they don't have to
+wait for legislation or?
+
+- It depends.
+
+It depends on the state.
+
+And what they just
+announced last week was,
+
+we're going to make it mandatory
+you have to go phone-free,
+
+which, of course, should
+have been done back in 2010,
+
+but is happening now.
+
+California is doing it,
+
+and it's happening in red
+states and blue states.
+
+Utah, Arkansas, Florida.
+
+They've been leaders on this.
+
+I think conservative states
+
+really see the struggles
+families are having.
+
+They want a family-friendly policy.
+
+But New York, Governor Hochul
+has introduced all kinds
+
+of really good measures
+
+that would reduce the damage
+that these things do to kids,
+
+the exploitation.
+
+So we're seeing it across the spectrum.
+
+- Okay.
+
+Second one is no social media before 16.
+
+So what's the reasoning behind 16, or?
+
+- Okay, so the key idea
+
+for all my recommendations
+is I'm coming at this
+
+as a social psychologist,
+
+which means I especially
+study the effects we have
+
+on each other.
+
+And the main reason why kids
+have to be on social media,
+
+even when they know it's bad for them,
+
+and a lot of them do,
+
+especially the older ones,
+
+is because everyone else is on
+
+and they don't want to be alone.
+
+And so that's called a
+collective action problem.
+
+Everyone ends up with a suboptimal outcome
+
+because of what everyone else is doing.
+
+But if we could just get a
+bunch of us to step off together
+
+and we go play with each
+other, we go have fun,
+
+we go to amusement parks,
+
+we go hang out at each other's
+homes the way kids used to.
+
+Now it's, like, appealing,
+and now you can,
+
+and now other kids can do it, too.
+
+So social media is much more
+addictive than cigarettes,
+
+not biologically, but in the
+sense that with cigarettes,
+
+in the worst years of teen smoking,
+
+it was only a third of kids,
+
+of high school students who smoked.
+
+But you don't find any high
+schools where only a third
+
+of the kids are on social media.
+
+It's everybody or
+nobody, or 90% or nobody.
+
+So ideally, I think the
+age should really be 18.
+
+If we're just looking
+from a health perspective,
+
+social media is wildly
+inappropriate for minors.
+
+We usually protect kids from
+extreme graphic sexuality,
+
+extreme graphic violence, and addiction.
+
+Those three things.
+
+Social media is all of those three things.
+
+So really the age should be 18.
+
+But my goal is not
+
+to say what's the optimal age health-wise.
+
+My goal as a social psychologist
+
+is to say, "How do we
+break out of this trap?"
+
+And if I were to advocate
+for 18, we wouldn't get it.
+
+So I decided that 16 is really the age.
+
+Now, I think that's a nice
+compromise where we could get it.
+
+And I have a whole chapter on puberty
+
+and how we used to have
+graded, at some birthdays,
+
+when you're 13, you get certain rights.
+
+When you're 16, you get certain rights.
+
+When you're 18, you get certain rights.
+
+So I think 16 is the age that
+we should be letting kids
+
+on social media.
+
+- I wonder, because YouTube
+spun out a YouTube Kids
+
+a number of years ago.
+
+It's basically, it's
+like a sister platform,
+
+functions the exact same way,
+
+but it's only kids content,
+
+and everything's very highly
+screened and moderated there.
+
+Part of me wonders is,
+
+if these platforms can't just
+all do the same thing, right?
+
+It's like, just.
+
+- Yeah, so I had a conversation.
+
+I've had conversations
+with two of the top leaders
+
+at YouTube, and I realized
+I don't know enough
+
+about YouTube Kids in particular.
+
+If it was the case that the
+company's getting data from them
+
+and using that to market to them,
+
+and they are posting stuff,
+
+then I'd say, "No way, no way."
+
+But YouTube is more
+
+of a giant video repository for the world.
+
+I already said stories are good,
+
+so I can definitely spend time on it.
+
+But I can definitely imagine
+you could have something
+
+for kids so that they can see
+stories and it would be okay.
+
+- It's also, it's longer form as well.
+
+And I think the largest children's brand,
+
+or one of the largest ones,
+it's called "Cocomelon."
+
+It started as a YouTube channel.
+
+Now it's all over Netflix
+and Hulu and everything.
+
+- But what about child influencers?
+
+What about seven, eight,
+nine, ten-year-olds
+
+who are on YouTube, and,
+
+you know, with their parents,
+
+but they're making a lot of money.
+
+- It makes me feel really weird.
+
+I've actually, you know,
+
+in the YouTube world, there's a lot.
+
+You come across a lot of,
+
+they call them family influencers,
+
+but it's really, you know,
+
+parents pushing a child star.
+
+It's that all over again, right?
+
+- That's right.
+
+Yeah, we don't let kids
+work in coal mines.
+
+There are a lot of places
+we don't let kids work.
+
+And I think we'll look back
+on this, and ultimately,
+
+we'll see that kids should not
+be full time brand managers.
+
+They should not be, you know,
+the English have a phrase,
+
+"Don't Put Your Daughter on
+the Stage, Mrs. Worthington,"
+
+which is a line from an
+old Noel Coward song.
+
+And it's just the idea that
+if you grow up on a stage,
+
+the audience is going to change you.
+
+We've seen this audience
+capture for some influencers.
+
+- Right, and you probably
+
+don't develop the normal,
+healthy relationships.
+
+Everything's very transactional.
+
+- Performative.
+
+- Yes.
+
+Yes.
+
+All right, third one.
+
+No smartphones before high school.
+
+- So this one is very, very important,
+
+because even though I love my smartphone,
+
+the iPhones are amazing.
+
+It will long be remembered
+
+as one of the most important pieces
+
+of consumer technology ever.
+
+But it is the portal.
+
+The Internet, as I said,
+is wonderful overall.
+
+But having 24/7 access to the Internet
+
+means that you are now much
+more prone to addiction.
+
+You are much more accessible
+to extortion gangs
+
+around the world,
+
+to perverts and sex predators.
+
+And so that's the line you
+don't want your kid to cross.
+
+So by all means, have a
+computer in your living room,
+
+and let your kids on it,
+
+and let them search for things sometimes.
+
+But the day that you give your child
+
+an Internet-enabled device
+
+that they, in a sense, own.
+
+It's mine.
+
+I customize it.
+
+I put the apps on that I want.
+
+I have access to it, if not all day long,
+
+at least most of the day.
+
+That is a major transition
+in your child's life.
+
+And for many kids, when
+you give them the iPhone,
+
+it will be at the center of their life
+
+for the rest of their life.
+
+You know, when they come into college,
+
+the phone's already at
+the center of their lives.
+
+In my flourishing class at NYU,
+
+we do a lot to sort of like pull it away
+
+so they can see nature,
+
+they can see each other.
+
+So my argument, again, is
+really focused on puberty.
+
+The longer you can delay
+getting your kids sucked into,
+
+you know, into a screen, the longer,
+
+the further they can get in puberty
+
+before they do that, the better.
+
+So I'm not saying keep
+kids off of video games
+
+until 14 or 16,
+
+but, yeah, you know,
+
+if your 10, 11, 12-year-old is playing
+
+three or four hours of video games a day,
+
+that's probably bad.
+
+- Yeah.
+
+- And if your 10, 11, 12-year-old daughter
+
+is spending three or four hours a day
+
+on social media, or just, you know,
+
+that's probably really bad for her.
+
+- Yeah.
+
+- So, you know, in the US,
+
+we have a big break at high school.
+
+The rule in the US is no
+smartphone before high school.
+
+Now internationally,
+
+a lot of schools have more the UK model,
+
+where their secondary school begins
+
+around age 11 or 12,
+and it ends around 16.
+
+So the parents groups
+in the UK are saying,
+
+"No smartphone before the
+end of secondary school,"
+
+which is 16.
+
+Ideally, that would be great,
+
+but the world kind of requires
+you to have a smartphone
+
+for a lot of things nowadays.
+
+And I want kids to be out
+in the world, independent,
+
+going places, taking Ubers.
+
+So I hope they can get that to work,
+
+and I hope the world will adapt back
+
+so that it doesn't demand
+that to be out in the world,
+
+you must have a smartphone.
+
+But I'm pretty comfortable
+saying, "Before high school,
+
+give them a flip phone,
+give them a phone watch.
+
+You can text them, you can call them,
+
+but don't give them a thousand apps
+
+and the Internet all the time."
+
+- Yeah.
+
+And then the last one, more outdoor play.
+
+Free-range kids.
+
+Tell us about that.
+
+- So I was really influenced
+
+by a woman named Lenore Skenazy
+
+who wrote a book called "Free-Range Kids"
+
+It's a wonderful book.
+
+If you have kids before 8th grade,
+
+or certainly if you have kids
+
+in elementary school or younger,
+
+please read "Free-Range Kids."
+
+Lenore is so amazing.
+
+She helped me and my wife
+really let go with our kids
+
+and send them out on errands
+
+in New York City when they
+were beginning fourth grade,
+
+which you and I were probably
+out much younger than that,
+
+but now it's more like 6th grade
+
+we kind of let kids walk
+three blocks to a store.
+
+So Leonora really encouraged us
+
+to give our kids more independence,
+
+and we could see exactly
+what she was talking about.
+
+They come back from an errand,
+
+and they're more confident.
+
+They have a better sense that
+they can act in the world.
+
+They can do things.
+
+It's amazing.
+
+So the fourth norm is
+really, really important,
+
+because the first three are
+about taking away screens,
+
+about not having 10
+hours a day on a screen.
+
+But if you're going to
+take away the screens,
+
+you have to give them something to do.
+
+Why not give them the
+normal, healthy thing to do,
+
+which is play with each
+other, go have adventures,
+
+go climb a tree, go get into
+a little bit of trouble.
+
+So this is the hardest norm, I would say,
+
+because it actually requires us parents
+
+to overcome our own fears.
+
+And I'm not saying we should
+just kick our kids out at 3:00
+
+and say, "Don't come back until
+the streetlights come on,"
+
+because that was the usual rule.
+
+- That's how I grew up, yeah. (laughs)
+
+- And you and I grew up,
+
+well, I grew up during the crime wave.
+
+You were a little, you grew up,
+
+you had it early on.
+
+- Yeah.
+
+- But now the world's
+very safe physically,
+
+but we don't let our kids out.
+
+We don't trust our neighbors anymore.
+
+So I think people have
+to be more intentional.
+
+Like, you can't just say,
+"Get out of here, kid.
+
+Go find other kids to play with."
+
+Because there aren't other
+kids out there to play with.
+
+But if you're a parent,
+
+you are surely connected to the parents
+
+of your kid's friends,
+
+because you had to pick
+them up at a birthday party.
+
+I mean, you just, you
+know, you talk at school,
+
+whatever it is, you know them.
+
+Text with them, say,
+
+"Hey, I read this book,
+'The Anxious Generation,'
+
+and they suggest that we do this together.
+
+We give our kids a fun,
+adventurous childhood like we had,
+
+but we have to do it together.
+
+Are you in?"
+
+Like, it could start as
+simple as every Friday,
+
+these five kids who are friends,
+
+every Friday they get together.
+
+They can start at any of our houses.
+
+They can go to, you know, if
+it's possible, they can go.
+
+They can ride bicycles, you know,
+
+oh, one of you guys has a trampoline.
+
+One of you has something.
+
+Let them take some risks.
+
+So this fourth norm,
+
+this is the really positive one.
+
+This is, I think, the inspiring one.
+
+And this is the way I think
+
+we'll really convince the kids especially,
+
+is we're not just saying,
+"Get off your phone."
+
+We're saying, "How about go have some fun
+
+with your friends?"
+
+- Yeah.
+
+I've heard from a number of parents
+
+that the struggle with
+this is the other people
+
+in their community, because
+they get judged for it.
+
+A lot of other parents
+will judge them for it.
+
+- [Jonathan] That's right.
+
+- You hear these horror stories
+
+of people having the cops called on them.
+
+- Yes, I have friends who
+that's happened to, the kids.
+
+- So what advice do you give
+to people in that situation?
+
+- So, right,
+
+if you're the only one doing
+it, you are taking a risk.
+
+And the risk is more
+that your neighbors will,
+
+because if they call the police,
+
+the police will then refer it
+to Child Protective Services,
+
+and then it's a bureaucratic
+nightmare for years.
+
+So you are taking a risk
+if you're the only one.
+
+So Lenore is so important
+
+that a few of us convinced her
+to stop just being an author
+
+and to found an organization
+to make her more effective.
+
+It's called Let Grow.
+
+So I'm on the board of it.
+
+So if parents go to LetGrow.org,
+
+we have our most powerful program
+
+solves the problem you just asked about.
+
+It's called "The Let Grow
+Project," and it works.
+
+You can do it at home as a
+family or a few families,
+
+but it works best at a school.
+
+So imagine, and this is happening
+all over the country now,
+
+there's a school in Long Island
+
+that we've studied especially.
+
+Imagine that you have,
+in elementary school,
+
+everyone, let's just take a
+third or fourth grade class.
+
+The assignment is every month,
+
+here's a handout.
+
+You bring it home to your parents.
+
+Find something that you think you can do
+
+on your own that you've never done before.
+
+Work it out with your parents.
+
+Get agreement.
+
+Maybe it's walk the dog.
+
+Maybe they've never let you walk
+
+around the block with the dog.
+
+Maybe it's, you know, walk to the store
+
+and buy a quart of milk
+or buy a candy bar,
+
+if there's a place that you
+could walk within a few blocks.
+
+And so they agree, and
+then the kid does it.
+
+And the first time they do it,
+
+and I've heard this from a lot of parents,
+
+the parents are nervous as hell.
+
+Like, you know, "Can she make it?"
+
+You know, "Is she?"
+
+And of course the parent was doing this
+
+when they were seven,
+
+but we don't think our
+nine-year-olds can do this,
+
+but they do.
+
+And then it's like, you know,
+
+the kid is so excited,
+and the parents are proud,
+
+and then it's easier for them
+
+to let them go the second time.
+
+But now what?
+
+And then, and of course,
+it's a school assignment.
+
+It's a homework assignment.
+
+I can't be called a bad parent
+for letting my kid do this.
+
+It was homework.
+
+And now imagine a town
+
+in which all the elementary
+schools are doing this
+
+and everybody's now seeing seven, eight,
+
+well, let's maybe not seven,
+
+but eight, nine-year-olds.
+
+We're seeing eight,
+nine-year-olds walking around,
+
+doing the shopping, walking
+the dog, riding their bicycles.
+
+Now the whole town transforms,
+
+and now no one can call the police.
+
+- Yeah, that's great.
+
+How optimistic are you
+
+of some sort of political
+regulation or policy change?
+
+Because it's, you know,
+the parent thing is great.
+
+But you mentioned it earlier, right?
+
+Like the kids who are
+going to benefit the most
+
+from parents who read a book like yours
+
+and understand the research,
+
+it's going to be the
+wealthy, well-to-do parents.
+
+- Married, yeah, two-parent families.
+
+Yeah, that's right.
+
+- So to get the most equal outcome here
+
+is some sort of wider
+regulation or policy change.
+
+- Yes.
+
+- What is your optimism level on that?
+
+- So policy change is
+happening all over the place.
+
+Nothing yet from the federal
+government since 1998.
+
+The Internet's changed a lot,
+
+and the federal government
+has done nothing.
+
+0.0 new laws or regulations,
+but that might change.
+
+The Kids Online Safety
+Act is the one measure,
+
+it does a lot of things to make
+the online life less painful
+
+and toxic and damaging to kids.
+
+That I hope,
+
+I'm not sure when this will air,
+
+but Senator Schumer,
+
+if you or any of your people
+or constituents, including me,
+
+are listening, please
+introduce KOSA, please.
+
+You know, it's passed
+through all these committees.
+
+It has this huge bipartisan support.
+
+President Biden would sign it.
+
+So please, let's pass the
+Kids Online Safety Act.
+
+The most important thing
+beyond KOSA is age gating.
+
+That's going to be difficult,
+
+but the industry can solve it.
+
+They can solve anything.
+
+They just don't want to,
+because it's difficult.
+
+And they'll lose a lot of users,
+
+lose a lot of young users.
+
+- Well, I mean, I will say,
+
+as somebody who has to verify his profile
+
+on all these platforms,
+
+and usually means I have to
+send in a picture of my passport
+
+or my driver's license.
+
+The technology has gotten good enough.
+
+I mean, you can send it.
+
+You can take a,
+
+I can take a picture
+of my driver's license,
+
+and within 10 seconds.
+
+- [Jonathan] That's right.
+
+- The platform knows I am who I am.
+
+- That's right.
+
+So there are a lot of things.
+
+So, like with banking and finance,
+
+we have know-your-customer laws
+
+and things would be really terrible
+
+and crazy if anybody could
+bring a bag of money into a bank
+
+and no names asked, they, you know.
+
+So there are a lot of,
+
+I'm not saying this should be
+universal across the Internet,
+
+but imagine if there
+
+was a social media platform like Twitter
+
+or Instagram or whatever,
+
+on which everybody truly was verified
+
+and nobody was a Russian agent.
+
+Nobody had some psychopathology
+
+that made them a complete jerk
+
+and they'd been kicked off 20 times
+
+and just made 20 new accounts each time.
+
+Life online would be so much better
+
+if there was some sort of
+identity authentication.
+
+And to be clear,
+
+it doesn't mean you have to
+post with your real name,
+
+but you have to at least,
+
+if you're going to have a relationship
+
+with these powerful companies,
+
+you have to show that
+you're a real person,
+
+and then if you misbehave,
+
+they can block you from
+opening another account.
+
+You described the most
+straightforward method,
+
+which is you show your
+driver's license or passport,
+
+but there are many, many other methods.
+
+And so what I'm hoping
+we'll have is that Congress,
+
+let's say, would pass a law,
+
+and even state legislatures can do this.
+
+Congress would pass a law saying,
+
+"If you want to,
+
+if you want to do business
+in this kind of way,
+
+you have to offer a
+menu of age verification
+
+or identity authentication methods."
+
+And you know, Congress shouldn't mandate.
+
+Some bills do.
+
+They say "They must do this."
+
+Congress shouldn't mandate how they do it.
+
+They should just say, you know,
+
+"You're responsible."
+
+And there's facial recognition.
+
+There are various blockchain methods.
+
+There are all kinds of methods.
+
+And if Congress says, "You
+have three years to do this,"
+
+they're going to figure
+it out very quickly.
+
+- Yeah, very true.
+
+- In ways that will not threaten privacy.
+
+I do appreciate that
+showing your government ID
+
+to get on Pornhub puts you at risk,
+
+because if Pornhub is
+hacked, now everybody,
+
+so I appreciate that.
+(upbeat music)
+
+This is a hard problem.
+
+I'm not saying just, you know,
+
+snap our our fingers and make it go away,
+
+but we're not even, I
+mean we got to work on it.
+
+- Yeah.
+
+Jonathan Haidt, it's been a pleasure.
+
+- Mark Manson, always a pleasure.
+
+- Thank you so much.
+
+- Thanks, thanks to you.
+
+(upbeat music continues)
+
+

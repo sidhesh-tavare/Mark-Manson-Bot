@@ -1,0 +1,4286 @@
+in a recent survey of 12,000 people
+
+across 15 countries a shocking 75% of
+
+office workers said that they had
+
+experienced burnout in the past year
+
+burnout is defined as chronic workplace
+
+stress or constant feelings of energy
+
+depletion and exhaustion not only has
+
+this become more common in the past
+
+decade but post pandemic it has reached
+
+well epidemic proportions yet this is
+
+despite the fact that more people than
+
+ever have flexibility both both between
+
+and within jobs we are more able to
+
+choose our hours work where we want and
+
+for who we want on what we want than any
+
+other time in history on paper things
+
+should be great for workers yet they're
+
+suffering more than ever so what the
+
+[ __ ] is going on here are people just
+
+whiny and weak or is there something
+
+deeper and more psychological going on
+
+today's episode is all about
+
+productivity burnout and why when given
+
+more freedom and flexibility in our jobs
+
+our minds appear to burn out faster it's
+
+a complicated and nuanced subject and a
+
+must here for anyone who struggles with
+
+feeling stressed at work now joining me
+
+today is Cal Newport Cal Newport is a
+
+professor of computer science at
+
+Georgetown University but Cal is best
+
+known for his New York Times
+
+best-selling books about the
+
+intersection of Technology productivity
+
+and work culture his books have sold
+
+millions of copies and been translated
+
+into 40 languages his newest one is
+
+called slow productivity accomplishment
+
+without burnout but perhaps most
+
+impressively Cal has made it this far in
+
+life without ever starting a social
+
+media account Yes you heard that
+
+correctly if that blows your mind well
+
+once you listen to the conversation
+
+you'll understand how he does it 20
+
+million books sold zero [ __ ] given it's
+
+the subtle art of not giving a [ __ ]
+
+podcast with your host Mark
+
+Manson Cal so good to have you here mark
+
+good to be here I'm excited to do this
+
+for a couple reasons one is just I've
+
+been reading your books for 12 years now
+
+been a fan of your work for a long time
+
+also excited because I feel like
+
+philosophically we're we're very aligned
+
+like every time I read your stuff I'm
+
+like that totally dovet tales with with
+
+what makes sense to me but there's so
+
+many situations where my intuition seem
+
+diametrically opposed to yours so I
+
+actually feel like this is a new podcast
+
+so you might have the honor of being the
+
+first podcast gu that that we get to
+
+disagree about things I like it and have
+
+a conversation about it so I'm very
+
+excited about it the new book is slow
+
+productivity it's fantastic it's clear
+
+it's to the point it's classic Cal
+
+Newport why don't we start by just
+
+laying some groundwork defining some
+
+terms and start out by just telling us
+
+what is slow productivity and what was
+
+the inspiration for the concept well I
+
+mean it's the answer to a question which
+
+is how can we produce work we care about
+
+that's impactful and successful right
+
+support supports us supports our family
+
+without burning out and without having
+
+work Annex more and more of the
+
+territory of your life right that was
+
+the motivating question I was hearing
+
+that from my readers and then I was
+
+feeling it myself as well and you know
+
+for me that the personal motivation was
+
+my three boys all became Elementary
+
+School age which I discovered as a dad
+
+is a real switch suddenly when you have
+
+three boys their Elementary School age
+
+they want essentially every single
+
+minute you can give them which is
+
+different than when they're younger and
+
+it's more like survival mode let's let's
+
+keep these things fed right so it's
+
+really different so I was feeling that
+
+at the same time that in my career I was
+
+hitting on all cylinders you know as an
+
+academic as a writer you know tenure at
+
+Georgetown writing for the New Yorker
+
+books were coming well so I I had
+
+endless opportunities and so I was
+
+feeling that personally then the
+
+pandemic hits and all my readers write
+
+and said I'm tired of the word
+
+productivity and I'm tired of work and
+
+this whole thing is nonsense I just
+
+spent eight hours in zoom and I'm going
+
+to quit and move to the countryside and
+
+we'll figure out later how I'm going to
+
+survive myself all this was going on at
+
+the same time and so I said okay we have
+
+to solve this problem like how can we
+
+work and do interesting work and
+
+meaningful work and not burn out or just
+
+want to leave it all behind move to the
+
+country so slow productivity that's the
+
+answer it's it's what I came up with as
+
+an answer to that question and how would
+
+you define slow productivity well so we
+
+have to Define it in contrast to what we
+
+do instead so I mean I went deep in sort
+
+of C Port fashion I went deep on the the
+
+history of productivity and knowledge
+
+work right and I I think the story is
+
+important to understand what slow
+
+productivity means is that you go all
+
+the way back to Mid 20th century
+
+knowledge work emerges as a major sector
+
+right the term is coined in 1959 there's
+
+a problem this a new type of work we're
+
+using our brain we're not building
+
+things with our hands it's growing
+
+really big we see this in the US economy
+
+the problem is we didn't know how to
+
+Define productivity like because we were
+
+coming out of the Industrial Age in
+
+which we had very clear understanding of
+
+productivity it was a ratio we produced
+
+this many modalities for this many input
+
+labor hours that's a number we change
+
+the way we build the model T's that
+
+number goes up this is better and so you
+
+you had a a very straightforward notion
+
+of productivity that actually came from
+
+agriculture we got this many bushels of
+
+wheat from this many acres of land we
+
+switched the way we rotate our crops
+
+that number went up this is more
+
+productive none of that worked at
+
+knowledge work right because I'm going
+
+to do five or six different things
+
+that's going to be different than what
+
+you're doing uh that's going to shift
+
+unpredictably the method by which I
+
+actually complete my work is entirely
+
+off uscad no one has any idea how I'm
+
+doing it there's no Central system to
+
+even evaluate so we were left with a
+
+quandry how do we Define productivity we
+
+need something right we have to manage
+
+these people and what the industry came
+
+up with was we'll use activity as like a
+
+crude proxy for useful effort sure yeah
+
+activity is better than less activity
+
+more is better than less I call it
+
+pseudo productivity and it was an
+
+activity based notion this kind of
+
+worked because we had offices we went to
+
+and you would go there and you would do
+
+the show and you know you put the
+
+magazine down when the boss walked by
+
+and whatever and then we get to the 20th
+
+century and we get the front office it
+
+Revolution now we have computers we have
+
+networks we have emails we have
+
+smartphones we have laptops suddenly the
+
+opportunities to demonstrate activity
+
+are endless because I can send an email
+
+anywhere at any time the threshold on
+
+what active means really went up because
+
+I can constantly be on slack like I can
+
+constantly be leaving a digital Trail
+
+and the amount of work that was possible
+
+to do also became basically Limitless
+
+that's when the wheels really spun off
+
+uh the car yeah and that's when pseudo
+
+productivity became increasingly
+
+unbearable till we get to the pandemic
+
+and that's it I love this term pseudo
+
+productivity because you know
+
+occasionally I will interface with very
+
+large corporations and it's funny
+
+because I'll go into a meeting and in my
+
+head there's like five minutes of things
+
+to talk about but for people who are
+
+working at a large company you know a
+
+90-minute meeting with Mark Manson
+
+sounds productive it sounds like they're
+
+doing something really important right
+
+and so you end up in this meeting and
+
+it's it's like eight or nine people half
+
+of which probably don't need to be there
+
+in the first place going one by one
+
+giving like a 10 or 12 minute spiel
+
+about something that's completely
+
+inconsequential but sounds important it
+
+sounds useful and it finally it takes 80
+
+minutes to actually get to the the five
+
+minute thing that is of any productive
+
+value whatsoever and it it kills me
+
+inside you know as a self-employed
+
+person an entrepreneur it it just it
+
+drives me absolutely insane but I love
+
+that you point at the the ambiguity of
+
+measurement within knowledge work right
+
+like it's easy if you're a plumber you
+
+can measure your productivity by how
+
+many syns you fix per day but if you are
+
+a writer for instance do you measure by
+
+how many words you write per day do you
+
+measure by how many hours you put in per
+
+day do you measure by how many chapter
+
+outlines like I ran into this myself
+
+with my books where it's like I would
+
+set word counts goals and quickly what
+
+you discover is that you'll just write
+
+[ __ ] to fill up your word count call
+
+and then call call yourself call it a
+
+good day you know pat yourself on the
+
+back and then I was like okay that's not
+
+working maybe I'll switch to just put in
+
+three good hours a day and then I would
+
+just sit at my desk for three hours and
+
+not write any words yeah and then call
+
+Pat myself on the back and call it a
+
+good day and so there's this ambiguity
+
+that pervades so many jobs and I think
+
+so much of this problem is just
+
+accurately defining what is the metric
+
+that we're optim in for well I mean I
+
+think the your example about writing is
+
+perfect for getting to the core of the
+
+issue so this idea that what's my daily
+
+metric that's industrial thinking yeah
+
+right so you're thinking okay so what am
+
+I I have to measure something like how
+
+do what am I doing today is it is it
+
+word count is it pages is it yeah time
+
+where I think the right metric for a
+
+writer is measured and this is going to
+
+be quite different on the scale of a
+
+decade okay what books did I publish in
+
+the last 10 years how proud am I of
+
+those books I mean it's why I open slow
+
+productivity with a riter I open it with
+
+John MC John MC is laying on his back on
+
+a picnic table in his backyard in
+
+Princeton New Jersey for five days like
+
+the book opens with five days of John MC
+
+laying on his back doing nothing except
+
+trying to figure out how am I going to
+
+make this massive two-part New Yorker
+
+piece I'm supposed to write about the
+
+pine Barons how am I going to write an
+
+article about this and he sat there for
+
+five days and my point is if we zoomed
+
+into one of those five days with the
+
+pseudo productivity industrial mindset
+
+he say this person's lazy like he's
+
+doing nothing what can he point to but
+
+then you zoom out he's written 29 books
+
+yeah you know pullit surprise two
+
+different books that were finalist for
+
+the national book award his writing for
+
+the New Yorkers incomparable right I
+
+mean he's productive by any reasonable
+
+sort of self-evident definition of
+
+productivity so as a writer like yeah
+
+what did I do I mean my decade began
+
+with this like this is my productivity
+
+metric like this was the first book this
+
+was the start of me wanting to write
+
+serious uh idea fiction books this is
+
+about 12 12 years right so like now I
+
+can evaluate this and I am like okay
+
+what comes next so that's the scale uh
+
+at which I'm thinking about like that's
+
+a very slow productivity mindset uh I
+
+know it's hard and there's a whole we
+
+get into how do you approach work if
+
+ultimately you're going to measure some
+
+things on a scale of a decade but that's
+
+slow productivity this is a classic
+
+situation where my heart loves that I'm
+
+like yeah that sounds great your brain
+
+is not so and my brain is like wait a
+
+second time out that can work for us as
+
+authors like that's a little bit of a
+
+luxury position right and and John M MC
+
+as well you know what if you are a data
+
+analyst at a bank yeah you know which is
+
+also knowledge work also ambiguous
+
+metrics kpis that you're supposed to
+
+meet maybe they're good maybe they're
+
+not maybe they're driving you crazy
+
+burning you out but they don't have that
+
+luxury to necessarily measure their
+
+productivity in a decade so this this is
+
+the the kind of the key of the approach
+
+in the book is let's start by looking at
+
+what I call traditional knowledge
+
+workers so the people well before we had
+
+cubicles and computer screens used their
+
+brain to create stuff with value now the
+
+thing about traditional knowledge work
+
+so writers philosophers like scientists
+
+artists right the thing about them is uh
+
+they had huge flexibility right I mean
+
+if you are supported by the meta chees
+
+to do statue carving right you have a
+
+lot of flexibility in how you work and
+
+so my thought is well this is an
+
+interesting natural experiment what
+
+happens when you give a knowledge worker
+
+a cognitive worker complete flexibility
+
+how are you going to figure out you can
+
+do anything you want through trial and
+
+error where do you end up what
+
+principles do you end up embodying to
+
+produce uh the best stuff to have the
+
+most sustainable interesting career and
+
+then my idea is we isolate those
+
+principles and then we adapt them to the
+
+data analyst right so we look at me
+
+writing books over a decade or we look
+
+at you know uh Newton taking 30 years to
+
+get the principia together or Lyn Manuel
+
+Miranda spending seven years to do in
+
+the Heights and we don't try to
+
+replicate their daily work habits we
+
+don't say great as a data analyst you
+
+should go be like Linn Manuel Miranda uh
+
+and you should kind of come back to it
+
+every few months and then uh be in a
+
+freestyle uh rap touring group for the
+
+rest of your time like we're not
+
+replicating the specifics but let's
+
+isolate the principles they discovered
+
+and then adapt them so like let's take
+
+this principle which I would call take
+
+longer right take longer on your work
+
+take longer uh the scales in which you
+
+measure productivity you know make that
+
+make that a longer scale you have a
+
+standard knowledge work job what that
+
+then mean is okay when it comes time for
+
+me to agree to a project let me take
+
+whatever timeline I initially think of
+
+as reasonable like all right boss I'll
+
+get you this report in a month and just
+
+automatically double it right because
+
+you're probably really bad at estimating
+
+how much time we see this principle of
+
+great creators is that like they take
+
+their time if you give yourself more
+
+time actually it's not only going to be
+
+more realistic it's probably going to be
+
+a better report or a better marketing
+
+strategy or whatever is you're putting
+
+together so you can take longer now it
+
+doesn't mean sit on your back and picnic
+
+table for 5 days but it might be this is
+
+going to take two months instead of one
+
+and now you're able to produce something
+
+that really turns heads and this gets
+
+the flywheel going the momentum going so
+
+it's all about adapting these examples
+
+to Modern jobs are you familiar with the
+
+Hoff stats law a project will take 50
+
+50% longer than expected even when you
+
+account for Hoff st's law yeah that's
+
+about right I'm a big fan of that so
+
+this is a classic example
+
+philosophically absolutely and I have I
+
+have Absol found in my own career
+
+slowing down doing fewer things which is
+
+the first principle of of slow
+
+productivity do fewer things say no to
+
+more things it's been a huge help in my
+
+own career but then I try to like start
+
+actually like you know carving out where
+
+the boundry between that and just
+
+straight up procrastination you know
+
+where does that end and procrastination
+
+begin if I go to my boss and I say hey
+
+that thing you said to have in a month
+
+I'm going to I'm going to do it in two
+
+like do I actually need those two months
+
+am I bullshitting myself I don't know
+
+it's very murky for me do you is there
+
+any way to like clarify that yeah I mean
+
+well hey this is the challenge of doing
+
+interesting stuff with your brain yeah
+
+right so like let's let's emphasize all
+
+this as hard but like let's talk about
+
+the procrastination issue uh the story
+
+in the book that was relevant here is
+
+the Beatles right so I mean I tell the
+
+story of Sergeant Pepper because what's
+
+interesting about that album is The
+
+Beatles had had this terrible tour right
+
+before that everything went wrong right
+
+and at the very final stop of that tour
+
+they said this is it we're not touring
+
+which is a a big thing when it comes to
+
+thinking about recording an album
+
+because if you're going to tour your
+
+songs have to be reproducible on stage
+
+like in an arena where everyone's going
+
+to recognize the song If you're not
+
+going to tour again you can do anything
+
+you want with the music so now they're
+
+in this situation of we could stay in
+
+the studio as long as we want like we
+
+can endlessly mess with tape loops and
+
+effects and uh Indian instruments and
+
+all the things they did so now you're in
+
+this interesting tension of we want to
+
+do more interesting things than our
+
+first album which they recorded in a
+
+single day yeah which is crazy they just
+
+went in the studio boom boom boom they
+
+had it completely practice they've been
+
+playing those songs in ham they boom
+
+boom boom they're right out the door uh
+
+so we want to do better than that but we
+
+also don't want to be stuck in here you
+
+know endlessly which by the way a lot of
+
+bands ended up doing right they kicked
+
+off the progressive rock movement a lot
+
+of bands especially in the 70s just got
+
+lost in the studio U so how did they
+
+walk to balance between it well they
+
+they did spend more time but they also
+
+set uh Milestones that made them
+
+actually ship things right so like they
+
+they released a single as soon as they
+
+had a single ready to release this
+
+started the clock ticking of okay this
+
+album has to follow like you have a
+
+single out so so they felt okay we have
+
+some pressure to actually keep moving
+
+but we're moving at slower pace so you
+
+should take two months instead of one
+
+because I can I know one month is not
+
+enough time yeah I've never met a
+
+knowledge worker who has ever accurately
+
+estimated how long something was going
+
+to take I mean what people do is they
+
+they create a fairy tale about one in it
+
+great if I could finish this book
+
+chapter in a month and then your mind
+
+falls in love with how everything in
+
+your life would make sense if you could
+
+just but it's not what's actually going
+
+to happen so make it two months but not
+
+three I'm taking more time but not
+
+endless time and what's my equivalent as
+
+a knowledge worker of releasing a single
+
+hold me to it boss yeah this is I'm
+
+going to send you updates along the way
+
+this is going to be good you're going to
+
+like it hold me to it there's a cost now
+
+so okay that that helps me conceptualize
+
+this because one thought that I that I
+
+had a it recurred throughout me reading
+
+this was this idea of like limitations
+
+and constraints can actually improve
+
+productivity and it sounds like what
+
+you're saying is don't just kick the can
+
+down the road like still have a deadline
+
+still put a constraint on just allow for
+
+an an extra amount of leeway than you
+
+might do naturally or normally I mean
+
+this is what Lind Mel Miranda did in
+
+that example right so he has this play
+
+he writes it as a sophomore because you
+
+know he's a brilliant guy so he writes
+
+in the Heights as a sophomore at swore
+
+they perform it's not very good because
+
+also he's a a sophomore but he's like
+
+there's something here right I mean I
+
+think there's something here I need to
+
+mature creatively but I think there's
+
+something here so he didn't just sit on
+
+it and say Let Me Wait Till I'm inspired
+
+but he also didn't say what I'm going to
+
+do is like disappear for three months
+
+and like finish this thing because it
+
+would not have debuted on Broadway and
+
+won eight Tony if he had done that he
+
+did the middle so he got connected with
+
+two alums from swathmore who saw the
+
+play and said I think you're on to
+
+something like your book is kind of
+
+trash uh but the music is really
+
+interesting like so there's something
+
+here and they said here's what we're
+
+going to do they had a theater company
+
+in Manhattan they said we're going to
+
+every couple of months stage a new
+
+reading we're going to bring in actors
+
+and actresses we'll pay for it and we're
+
+going to do a reading and you're going
+
+to really get a sense about what's
+
+working and not working from actually
+
+hearing people read the script and then
+
+you better update it before the next
+
+reading comes along right you need to
+
+actually act on it right so he had these
+
+Milestones that pulled him forward but
+
+he was also touring with his uh
+
+freestyle group he was doing some
+
+substitute teaching he was writing a a
+
+restaurant review column like he wasn't
+
+just doing that yeah so he was taking
+
+time to let that really mature but at
+
+the same time he wasn't uh he wasn't
+
+sitting there and saying I'll get to
+
+this when I feel inspired so it sounds
+
+like this principle of do fewer things
+
+isn't necessarily do less work it's work
+
+really hard on fewer things over a
+
+longer period of time yeah so do fewer
+
+things there's there's another bit of
+
+the logic to it as well which which I
+
+think is clear when I add two words to
+
+it and say do fewer things at once okay
+
+that makes sense fewer things at once
+
+actually means that your rate of
+
+completing things is probably going to
+
+go up yeah right so like this one gives
+
+palpitations to people with bosses
+
+because they interpret it as like I'm
+
+going to do less stuff and they they see
+
+it typically through a standard sort of
+
+Zero Sum employer manager relation like
+
+you would have in the the labor politics
+
+of the industrial sector you know I I as
+
+the the employee in the factory what
+
+makes my life better is going to make
+
+your life as the factory owner worse and
+
+what makes the factory owner's life
+
+better is going to make my life as the
+
+employe worse we're going to fight right
+
+and we're going to have to just go back
+
+and forth It's not that situation
+
+actually in this case doing fewer things
+
+at once is actually going to produce
+
+more things and and the the reason for
+
+that actually it's like really insu and
+
+subtle it is the administrative overhead
+
+that comes along along with saying yes
+
+to something yes right so so once you
+
+say yes to something there's an
+
+administrative overhead in an office
+
+that's going to be emails that's going
+
+to be I get shutters thinking about it
+
+but standing meetings like I don't know
+
+I'm also an academic so you don't have
+
+to deal with this as much but they like
+
+great we meet every Wednesday to talk
+
+about this everything generates that
+
+yeah right which is fine like you have
+
+to there's overhead with commitments you
+
+got to talk to people about it the issue
+
+is that's generated whether you're
+
+working on that at the moment or not so
+
+if you say yes to too many things
+
+they're each generating this overhead
+
+tax that begins to pile up right and
+
+then once that begins piling up the time
+
+left in your day to actually execute the
+
+work gets smaller and smaller and more
+
+fragmented because these meetings aren't
+
+going to All Fall one after another
+
+they're going to fall sprinkle
+
+throughout your day so now the the pace
+
+at which you're actually completing
+
+things goes down so how long does it
+
+take in between things you finish that
+
+actually begins to get longer so if you
+
+keep fewer things on your plate at once
+
+it's not that fewer things get done
+
+actually it goes faster so I always tell
+
+people if you start there it's okay
+
+because once you bootstrap doing fewer
+
+things your boss is going to say why are
+
+you so productive like it's actually
+
+going to be the opposite thing like hey
+
+what's going on here yeah like you're
+
+shipping at a pretty fast rate I believe
+
+it I've actually I found that with my
+
+own team I actually had a sit down with
+
+one of my employees maybe six months ago
+
+and I I told her I'm like you're doing
+
+too much like you you're good at five
+
+things I need you to be excellent at one
+
+interesting and it's it was really
+
+effective it's been really helpful I
+
+think it's I have definitely seen as my
+
+team has grown I have seen the
+
+importance of specialization you know
+
+cuz when you're small and it's just two
+
+or three people everybody wears a lot of
+
+hats and the stakes are a little bit
+
+lower but now that we're growing quite a
+
+bit I'm finding that I'm having to have
+
+these conversations of like you are
+
+going to be the team expert at this one
+
+thing yeah and the you are in charge of
+
+this domain and it's it's been great
+
+it's been really effective do that well
+
+I mean this is like software developers
+
+figur this out a long time ago like we
+
+want you to write this type of code that
+
+you write really well right that's why
+
+software developers figured out a while
+
+ago we're not just going to push tasks
+
+on people we're not just going to say
+
+here's like 20 features we need in the
+
+just hey take care of these no we're
+
+going to use some sort of agile system
+
+where if there's a feature that needs to
+
+be done we'll write it down on a board
+
+and it's not on your plate and it's not
+
+on my plate it's on the team's plate
+
+it's generating no overhead tax because
+
+no one is assigned to this yet and then
+
+we're going to give you one thing at a
+
+time yeah and just like Sprint do that
+
+thing you know all the 10x code this and
+
+when you're done we're going to give you
+
+another thing right they they discovered
+
+programs get built faster and better
+
+that way than just dropping everything
+
+on everyone at once and like just hey
+
+figure this all out and you know add all
+
+these features and keep up with them so
+
+one of the recurring subjects that
+
+happens throughout the book is remote
+
+work it kind of you never I don't think
+
+you ever completely address it directly
+
+but it's it continually shows up as
+
+examples uh particularly over the last
+
+few years since the pandemic and I was
+
+thinking that this concept of the
+
+overhead tax which I love and it's a
+
+completely accurate way of thinking
+
+about it I think there's something about
+
+digital work
+
+that deludes us it makes the the
+
+overhead tax less apparent yeah like if
+
+you come to me in person and you're like
+
+hey Mark I'm doing this event it'd be
+
+really cool if you showed up if for some
+
+reason you know we can talk about it I
+
+can ask like okay what are your
+
+expectations how many days is it how
+
+long is the talk you know all these
+
+things and I can get a really good sense
+
+of like okay how much time in my
+
+schedule is that going to take up
+
+whereas if I get an email from a random
+
+company or organization saying hey come
+
+out to Indiana and come speak to a
+
+thousand people and we're going to pay
+
+you a shitload of money for some reason
+
+that email just looks like easy money
+
+and like just on paper I'm like oh man
+
+this is this is the best deal ever and
+
+what for some reason my brain is not
+
+processing that this is we're going to
+
+have multiples zo meetings I'm going to
+
+have to fly out like 2 days early
+
+there's going to be a meeting with uh
+
+with the organizers there's going to be
+
+a meeting with the VIPs there's going to
+
+be a sound check there's going to be a
+
+lunch there's going to be the VIP launch
+
+there's going to be a reception there's
+
+going to be a book signing my flight's
+
+going to get delayed coming back it's
+
+actually it's like a 4-day commitment
+
+and and it's actually not worth it and
+
+it took me a long time to start saying
+
+no to those things part of me wonders
+
+like what is it about digital work in
+
+particular that that ofu skates the
+
+overhead tax I mean I think it matters
+
+you're not seeing someone yeah right I
+
+mean the the friction little reductions
+
+in friction can make a big difference
+
+right I mean there there's a a study
+
+that Gloria Mark did where they went to
+
+a company and they took 12 people and
+
+they turned off their email it's like
+
+one of these cool Gloria Mark studies of
+
+like let's unplug this wire and Happ see
+
+what breaks right yeah but then she told
+
+me a a backstory about the study which I
+
+think gets to this is that one of the
+
+subjects in the study told her like not
+
+in the paper but told her that he was
+
+really annoyed at his boss in general
+
+because he had this job where he had to
+
+set up a laboratory for experiments
+
+every day it was an R&D lab and the boss
+
+would just keep emailing him with like
+
+hey do this can you just do this like
+
+get me this no just give me what did you
+
+get the email did you get the email and
+
+he was really annoyed because it would
+
+keep distracting him from what he was
+
+doing and it was kind of intricate what
+
+he was doing then they selected that guy
+
+to be one of the no email people in the
+
+subject in the study the boss
+
+essentially stopped bothering him and
+
+then what would Gloria would say the
+
+reason why this is interesting is the
+
+boss's office was like three doors down
+
+from the laboratory this guy was setting
+
+up so like the boss could just walk down
+
+the hallway and asked this guy hey could
+
+you do this what about this that extra
+
+little friction that was the difference
+
+yeah right it like substantially cut
+
+down there's something about you know
+
+like if I pitched you right now come to
+
+Indiana yeah it's just like you're
+
+saying I want you to come give a and
+
+I've done exactly this in Indiana so I
+
+know we've probably done it for the same
+
+company been there done that yeah we'
+
+probably done for the same company
+
+you're in person a I'd be much more
+
+reluctant to ask you because I can watch
+
+I mean I know it sounds small but like
+
+asking someone to do something you have
+
+to watch their face and the
+
+consternation and there's like a social
+
+capital there's a risk of feeling the
+
+rejection it's easy like if you don't
+
+get an email back it doesn't really
+
+bother you but when you stand face to
+
+face with somebody and ask them
+
+something and they're like no like it
+
+sucks it does suck and yeah and I think
+
+that that is true right uh so so you get
+
+that with the digital so you're like
+
+okay I don't care if I send this out you
+
+know because what happens they're going
+
+to say no um you also have to see the
+
+context right so you know when I see you
+
+in your office I see you're doing things
+
+so I'm thinking like well Mark's kind of
+
+busy like okay may I'm not going to
+
+bother him about this on email for
+
+whatever reason or slack the the way we
+
+imagine other people is basically like
+
+empty vessels to do our work so like we
+
+imagine like you're just sitting there
+
+oh my entire team is nodding along right
+
+now exact
+
+and especially like the Killer is not
+
+necessarily the trip to Indiana it's
+
+going to take four days it's the thing
+
+that's going to take like 45 minutes of
+
+your time because they imagine like come
+
+on why not what are you doing right now
+
+like I do things that take 45 minutes
+
+all the time and they don't understand
+
+you're busy or the scale of how many
+
+people are asking or even five minutes
+
+like it's a dozens of five minute things
+
+and there's there's something to there's
+
+like a there's a cognitive load that
+
+comes with task switching yep and so
+
+when you are always available and when
+
+everything seems minor and easy and you
+
+just get inundated constantly with a 5-
+
+minute thing here and a 5- minute thing
+
+there it wears you out in a way that I
+
+mean this is this is a lot of what deep
+
+work is about it wears you out in a way
+
+that you know working four hours on one
+
+thing does not uh and this is I think is
+
+like the productivity poison yeah is
+
+like the fact that the human brain is
+
+not a microprocessor right like a
+
+microprocessor every op that it executes
+
+every op code is the same as far as it's
+
+concerned it just here it goes It goes
+
+to the circuits takes exactly one cycle
+
+give me the next thing so all that
+
+matters for a processor is you want to
+
+make sure that it's never idle so if you
+
+design a processor like all of us
+
+computer scientists had to do in school
+
+you want to keep a pipeline as full as
+
+possible of instructions so that like
+
+it's never idle human brain can't do
+
+that like if I want to switch from what
+
+we're doing now to talk about or think
+
+about something unrelated I have to do a
+
+lot of cognitive work I mean and it it
+
+goes down to the neuronal level I have
+
+to inhibit certain networks that are
+
+relevant to this conversation I have to
+
+excite different neuronal networks that
+
+are relevant to the conversation this
+
+can take 10 to 20 minutes it's why when
+
+you sit down to do something hard it's
+
+this sucks this sucks this sucks o I'm
+
+in flow now right like 15 minutes in
+
+like why is that because it takes about
+
+15 minutes for your brain to
+
+reconfigure to what you're doing and
+
+then it goes easy so yeah so what
+
+happens when you have to switch every
+
+five minutes you always feel like in the
+
+first 10 minutes of trying to write like
+
+everything is just frustrating your
+
+cognitive capacity is reduced it's
+
+deranging like could completely exhaust
+
+people it's like working in an
+
+environment with weird flashing lights
+
+and it's like too cold like it's not
+
+conducive to how humans actually
+
+function like I I really do think
+
+constant context switching is like the
+
+number one mental health Affliction of
+
+knowledge work right like it's a massive
+
+issue and it's something that technology
+
+to the point of digital Min minimalism
+
+it's something that technology enables
+
+further there are a couple themes here
+
+that keep coming up on the Pod with
+
+multiple people so like when Oliver
+
+burkman was on a we spent a lot of time
+
+talking about how removing friction
+
+actually can in some cases make things
+
+worse and with him it was more in in
+
+kind of like a philosophical existential
+
+sense like it's without friction things
+
+don't feel as meaningful they don't feel
+
+as important when David Brooks was on we
+
+talked about how the loss of social
+
+friction is actually makes relationships
+
+more superficial and more you know more
+
+tenuous and here we're seeing it with
+
+with productivity like that that lack of
+
+friction is actually in some ways kind
+
+of overloading our brains
+
+so when I was doing research for this
+
+episode I came across something really
+
+fascinating I looked up job satisfaction
+
+surveys and I was surprised really
+
+surprised according to the conference
+
+board job satisfaction survey 2023 marks
+
+the highest job satisfaction since the
+
+survey began almost 40 years ago uh it
+
+measured job satisfaction across 26
+
+categories and it found that the gain
+
+and job satisfaction was most marked in
+
+people who had hybrid or remote work
+
+let's put a pin in that next thing I
+
+looked up burnout burnout is also at an
+
+all-time high 61% of workers say that
+
+they find it difficult to unplug and
+
+stop working at home 77% of remote
+
+workers say that they feel isolated and
+
+41% say that they do not feel supported
+
+by their bosses or co-workers one study
+
+found that on average remote workers
+
+spend 2 and 1 half hours more per day
+
+working which is that's staggering
+
+that's over that's like a 52-hour work
+
+week so we have this like weird
+
+contradiction going on here
+
+of if you ask people how satisfied they
+
+are with their jobs they they're more
+
+satisfied than ever and the people who
+
+are working from home or have the option
+
+to work from home say that report that
+
+they are the most satisfied than ever
+
+but they are also the most burnt out all
+
+the remote work of all the workers
+
+period so what the [ __ ] is going on here
+
+I I know these data right partially
+
+what's going on here is people like
+
+flexibility yeah right so so many
+
+different surveys ask people this is not
+
+surprising would you rather have
+
+flexibility in your schedule or a
+
+schedule that you have no flexibility
+
+nine out of 10 I'm thinking of recent
+
+Gallop data will say I want flexibility
+
+like it's like asking do you want
+
+Sunshine totally yeah right um so when
+
+you ask a newly hybrid or remote worker
+
+are you satisfied with your job I
+
+honestly think a lot of that answer is I
+
+don't want you to take this flexibility
+
+back away yeah so I'm going to say this
+
+like they they see the question as a as
+
+a quorum you know they're asking you um
+
+do you you like having this flexibility
+
+like no it's good it's good don't take
+
+it back right and that's a lot of the
+
+dynamic right now is people who uh
+
+gained hybrid or remote work schedules
+
+don't want it to go back actually right
+
+now what's ended up dominating is hybrid
+
+you I was just looking over these
+
+numbers uh we had fully remote of course
+
+in remote capable jobs like jumped and
+
+dominated in March of 2020 onsite fell
+
+all the way down to 12% onsite came up a
+
+little bit like it never got back above
+
+20 and it's been there ever since right
+
+so like we basically got rid of of
+
+on-site jobs for jobs that didn't have
+
+to be on site in knowledge work the real
+
+shift is remote and hybrid remote just
+
+fell fell fell hybrid rose rose rose
+
+hybrid is now two times more prevalent
+
+than fully remote so like we're in a
+
+hybrid world now and no one wants to not
+
+have the option yeah yeah but they're
+
+also really burning out yeah right so
+
+hybrid work remote work whatever
+
+combination you have it brings with it
+
+these friction issues we're talking
+
+about it also brings with it the issue
+
+of we get more meetings yes and virtual
+
+meetings because if I can grab you in
+
+the hallway then we don't have to set up
+
+a zoom if we set up a zoom because we're
+
+both at home or one of us is at home and
+
+one of us isn't that's going to eat up
+
+30 minutes on my schedule because I
+
+don't have the dexterity to drag like a
+
+smaller thing on Google Calendar than 30
+
+minutes so now you're taking what might
+
+have been 15 total minutes of ad hoc
+
+conversation and now it's going to be
+
+two and a half hours of Zoom meeting and
+
+this is really deranging for people as
+
+well yeah again it is a concept that
+
+keeps showing up over turn over is
+
+people like a lack of friction it on
+
+some level makes them happy but it
+
+produces worse results in terms of just
+
+overall well-being mental well-being
+
+it's really interesting to not to get
+
+too philosophical but you know when I
+
+was thinking about this I've been
+
+thinking a lot about Jean Paul sart he
+
+had this idea as one does yeah of course
+
+like what else do you do on a Tuesday
+
+Morning get existential
+
+sure but s you know he he described that
+
+as a good Frenchman he said free was
+
+anxiety and Terror and you know at the
+
+time that was just very I don't know
+
+edgy of him to say but the older I get
+
+and the more all of this technology
+
+develops the more I see the wisdom of
+
+that of how giving people endless
+
+optionality is actually in some sense
+
+emotionally overwhelming and cognitively
+
+taxing to use your word like it is a tax
+
+and it's a subtle tax I don't think we
+
+recognize it when it's happening when
+
+we're scrolling on Instagram or browsing
+
+through Netflix or opening our email and
+
+like scanning through the 200 emails
+
+that just came in like our conscious
+
+perception is wow look at all this
+
+amazing stuff that's available to me
+
+what's actually happening behind the
+
+scenes is very taxing and draining it's
+
+like the Netflix effect right I mean you
+
+go on Netflix today and like I can't
+
+find something to watch because when the
+
+options are endless you're like there's
+
+got to be some sort of Perfect movie
+
+that's like going to match my emotional
+
+state slin of the day SL I heard about
+
+this thing also has this actor in it if
+
+I can't find that I'm not happy whereas
+
+15 years ago you could basically take a
+
+random thing that you select on Netflix
+
+and if it was on TBS and you were home
+
+that night you like this is great this
+
+is kind of interesting look like Vince
+
+Von's in it okay I don't know like it's
+
+gonna be funny I don't we were happier
+
+yeah yeah or or like when I was a kid
+
+and probably the same right remember the
+
+9s it was like we're going to go to the
+
+movies every weekend and it's like okay
+
+you know there'll be something that
+
+seems like kind of okay and it was fun
+
+like some things were like fine some
+
+weren't it probably be a movie with like
+
+Harrison Ford jumping off something and
+
+it was like fine and we really loved it
+
+and we were happy and now we're on Max
+
+like oh there's only like 20 Oscar
+
+winners here I don't know this is
+
+[ __ ] that's this is two and a half
+
+hours I don't have enough time for that
+
+so imagine like in the workplace one of
+
+the ultimate uh flexibilities we gave
+
+people in knowledge work is we said okay
+
+productivity itself I figure that out
+
+how do you organize your work figure
+
+that out you can do anything you want
+
+you know it's a we'll just throw stuff
+
+at you and you have to figure out like
+
+how are you going to make sense of
+
+everything like why leave that
+
+completely up to every worker and you
+
+would say like well options are better
+
+but I think exactly it's the the start
+
+right over again right it completely
+
+paralyzes people absolutely yeah like I
+
+have to figure out how I say yes how I
+
+say no how I keep track of what I'm
+
+doing how I decide what to do next how I
+
+you know every time I do a video that's
+
+even remotely you know hey here's a a
+
+productivity related thing you could do
+
+those numbers fly through the roof
+
+because there's so many people out there
+
+like oh my God I don't know what what to
+
+do it's Netflix all over again it is
+
+fascinating how much this topic has
+
+blown up since the pandemic and it's I
+
+it's funny because at first I thought it
+
+was that everybody was at home and had
+
+nothing to do and so they were they
+
+suddenly became all very aware of all
+
+their bad habits and yes all of their
+
+worst tendencies that might be part of
+
+it but as it keeps going I have to
+
+believe that this is part of it too that
+
+it's it's the remote work and the weird
+
+kind of paradox of increased flexibility
+
+versus feeling like you're running in
+
+place all the time feeling like
+
+nothing's actually getting done and the
+
+burnout that comes along with that I
+
+think some of the best practical tips in
+
+the book come from this section of like
+
+even if you have a boss even if you're
+
+working in a huge company even if you've
+
+got like 20 people who under you who are
+
+relying on you like here are some
+
+practical tidbits that you can do to
+
+slow things down yeah to take things off
+
+your plate can you run through a couple
+
+of those really quick yeah and most of
+
+them come back to the Practical tips in
+
+that section making your workload more
+
+transparent it's almost like psychology
+
+hacking in some sense like one of the
+
+the the issues that keeps too much work
+
+coming on your plate and you saying yes
+
+too much is other people don't know what
+
+you're doing again so they see you as a
+
+vessel to do their work and they're
+
+offended why would you say no like an
+
+idea in there that was actually meant as
+
+a thought experiment but people that I
+
+talked to about this on the podcast are
+
+actually doing it so it's fascinating
+
+like it's maybe not a thought experiment
+
+is have a shared document right and at
+
+the top of it is here's like the three
+
+things I'm working on right now in like
+
+a divider line all right here's the
+
+queue of things I'm going to work on
+
+next like that I've that I've agreed to
+
+now when someone comes along and it's
+
+like hey can you do this and it's you
+
+know it's not like an obvious no it's
+
+it's from your boss or whatever like
+
+yeah of course just add it throw it on
+
+the Queue and and like you know if there
+
+is information I need to know to execute
+
+it you can put it there or you can just
+
+put a reminder to say like you know to
+
+call you when it gets closer or whatever
+
+throw it on the Queue oh and by the way
+
+you can check in anytime you want to see
+
+where that thing is as it works its way
+
+up oh and you want it to be done fast
+
+that's great like you're the boss you
+
+know just tell me which of the things so
+
+what are we moving yeah you you know
+
+better than I like which one are we
+
+moving down I'll let them know you know
+
+and it it forces a confrontation with
+
+the reality of workload and and you
+
+would think something like this would be
+
+kind of preposterous or you know a boss
+
+like what are you talking about but if
+
+you do this
+
+nicely it's actually really effective
+
+like oh okay I see what you're doing
+
+you're working on these things you know
+
+what don't worry about this right
+
+because it's going to take you too long
+
+to get to this anyways I'll I'll give it
+
+to someone else or we just won't do it
+
+or now that I see what you're doing can
+
+we take these three things back off your
+
+plate I don't want you doing those it's
+
+like your employee I don't want you
+
+doing those three things like these type
+
+of things are more important oh I see
+
+what's getting in the way of you doing
+
+this which you're really good at so you
+
+know what tell these people you're not
+
+doing that I want you just to be working
+
+on this transparency unlocks a a lot of
+
+good things and ausc unlocks a lot of
+
+frustration hearing you say that it
+
+makes me wonder how much of this issue
+
+is that if you're in person or let's say
+
+you're in a blue collar job you're on a
+
+construction side or something you can
+
+physically see what everybody's doing
+
+you can talk to someone you can see if
+
+they seem like flustered or overloaded
+
+there's an emotional intangible
+
+communication that happens in person
+
+where as a group you can kind of
+
+prioritize and sort tasks by what's most
+
+valuable and each given moment and
+
+there's not an argument about it there's
+
+no there's no ambiguity about it whereas
+
+when you go digital you don't have that
+
+extra non-verbal communication you don't
+
+actually see that Jon's like working his
+
+ass off or busy with eight other things
+
+so it makes sense that Building Systems
+
+with with that explicit purpose would
+
+solve a lot of these issues I was a big
+
+fan of the push versus pull processes
+
+that's actually that's the section that
+
+I hit and I was like oh my God I'm
+
+totally going to use this that's the way
+
+all work should be done by the way pull
+
+not push yes yeah will not push is like
+
+how all knowledge work should be
+
+assigned and almost none is can you
+
+describe each one of those and what it
+
+looks like yeah and this comes out of
+
+manufacturing right so you know in
+
+manufacturing a push system would be as
+
+soon as I'm done with this step of the
+
+manufacturing process I push it onto the
+
+next person right this doesn't work out
+
+very well because uh I can't control the
+
+speed at which things are being pushed
+
+on me and you can get pileups right so
+
+what works better is a pull based system
+
+when I'm ready to do the next thing I'll
+
+pull it from you no one gets piled up
+
+so basically the slowest step of the
+
+chain in this particular setup dictates
+
+the speed but then what really happens
+
+in these systems is then you can pretty
+
+clearly identify oh great this is the
+
+slowest one we can put more resources
+
+there and the whole system speeds up no
+
+pileups though this is how knowledge
+
+work should be assign but it's not we
+
+push something comes into my world it's
+
+now a source of stress for me like a
+
+client called me was like we gotta you
+
+know whatever we got to get this feature
+
+whatever added to the software I want to
+
+get this off my plate as soon as
+
+possible because you know productivity
+
+is personal and I'm not very organized
+
+and it's just in my head and it stresses
+
+me out so I'm just going to push it onto
+
+someone else's plate so I can just be
+
+like Mark take care of the feature
+
+exclamation point emoji sin boom it's
+
+off my plate right it took me like seven
+
+seconds and just on now I've pushed it
+
+onto your plate now you have to deal
+
+with it so now you're pushing other
+
+things on other people's plates so all
+
+the work that comes into the system gets
+
+pushed on someone's plate it's all
+
+unevenly distributed and we get the
+
+whole overt tax issue right a poll-based
+
+system in knowledge work would be okay
+
+things that need to be done Exist by
+
+default not on an individual person's
+
+plate like we have a place to keep track
+
+of as a team these are things that need
+
+to be done so the client calls me hey we
+
+got to have this feature whatever I put
+
+it to our list of these are things we
+
+need to do it's not on my plate it's not
+
+on your plate then what individuals do
+
+is as they finish something they pull
+
+something more from that list and you
+
+can do this intelligently like let's
+
+let's have a quick meeting or whatever
+
+to figure out we have a standup meeting
+
+how they do it in software development
+
+okay you're done with with this what's
+
+the best thing for you to do next well
+
+now that we're really looking at this
+
+like we should really give this priority
+
+okay will you take that on next and it
+
+gives you an opportunity to say okay if
+
+I'm going to do this I'm gonna need this
+
+from you and this from you and this from
+
+you and you can kind of figure it out
+
+right then yeah okay not a lot of emails
+
+okay make sure I get that by Tuesday
+
+let's write this down you're doing that
+
+all right this draft will be ready for
+
+you to check by Wednesday I'll put it in
+
+this Dropbox and you do that and I'll
+
+come back to it on you figure out the
+
+whole plan and then you go and do that
+
+thing and it gets executed like that is
+
+the right way to leverage cognitive
+
+resources not just oh my God like let's
+
+just email these things them off you
+
+know it's just obligation Hot Potato I
+
+got to get this stuff off my plate right
+
+now because I'm stressed totally and I
+
+temporarily feel better and I just made
+
+20 people feel worse and they're going
+
+to retaliate they're going to retaliate
+
+it's like no you get this and you know
+
+you get this sometimes where people will
+
+send you an email and you know that
+
+there's not enough information there for
+
+you to do it you know it's not you know
+
+it's going to get bounced back they know
+
+it's going to get bounced back but in
+
+the moment they were just trying to get
+
+that they're trying to get it out of
+
+their inbox yeah because they feel like
+
+oh if I can just clear my inbox I I'm
+
+done for the day I'm done for the day
+
+yeah us said nonsense he I love this
+
+because uh a pain point in my business
+
+right now is you know we've completely
+
+pivoted the video and everything relies
+
+on the video production so are are you
+
+filming this oh
+
+man cut to me and a yeah right I should
+
+have an elaborate wig
+
+[Laughter]
+
+on oh um but yeah everything in the
+
+business now relies on the video content
+
+being produced so the social content
+
+that we put out the the way we promote
+
+things the promotions that go into the
+
+newsletters and so if a and video
+
+production is very hard and complex and
+
+very labor intensive so when things get
+
+stuck in the video
+
+pipeline everything gets like backed up
+
+in the rest of the business and I've
+
+been talking to my my lead people like
+
+how do we solve this how do we get over
+
+and so as as soon as I saw the push pull
+
+thing I'm like oh my God this is amazing
+
+all right so let's get to where I think
+
+we might disagree principle number two
+
+is work at a natural pace what the [ __ ]
+
+is a natural
+
+pace not not like you're in the Ford
+
+factory okay not okay full intensity 9
+
+to5 five days a week 50 weeks 50 weeks a
+
+year no variation in intensity work is
+
+turn it on you should be working really
+
+hard till it's over that was not how
+
+humans work through all of our history
+
+until we invented Mills in factories and
+
+then when we tried to put people into
+
+that type of work it was so unnatural
+
+and so terrible that we had to invent
+
+labor unions and giant regulatory
+
+Frameworks just to try to make this type
+
+of artificial work somewhat tolerable
+
+and then knowledge work comes along and
+
+what do we do like how do we organize
+
+this like oh let's do what the factory
+
+does yeah yeah show up 9 to five let's
+
+go so a natural pace is inherently
+
+variable variable okay so there's like
+
+Sprints yes periodic bursts at different
+
+time scales too yes within the day
+
+within the week within the month within
+
+the year like the summer is slower than
+
+the fall this day is more intense than
+
+that day the morning's more intense I
+
+early in the afternoon or within a
+
+career I assume yeah you could go that
+
+wide as well yeah because as I was
+
+reading through this section I kept
+
+thinking of counter examples like you
+
+mentioned the Beatles earlier they did
+
+12 albums in nine years yeah which is an
+
+insane amount of output they never
+
+stopped working yeah they never stop
+
+like never which is completely atypical
+
+you know there there are other musicians
+
+that like you talk about Jewel in the
+
+book you know took slowed down canceled
+
+opportunities took her time with albums
+
+you know like really honed her craft and
+
+and also was massively successful turned
+
+down a million dollars didn't just slow
+
+down without homeless at the time turned
+
+down the million dollars so that she
+
+could take more time and make 200
+
+million couple years down the line yeah
+
+juel if you're out there come on the Pod
+
+so that the variability of it makes more
+
+sense to me I couldn't help but feel and
+
+I guess this this goes without saying
+
+but a certain amount of this is probably
+
+personality driven as well I imagine
+
+some people's natural setting is a
+
+little bit higher or lower than other
+
+people's and I say that just because I
+
+maybe maybe I'm a workaholic in denial
+
+and and this is like is this therapy now
+
+this is like triggering to me you'll be
+
+okay Mark you'll be okay but I no I I
+
+really thought about this and because I
+
+I came across some examples and I'm I'm
+
+curious what your response would be so
+
+we we got the Beatles Mark Twain did 94
+
+books in 55 years Picasso if you average
+
+out Picasso's output he averaged almost
+
+a painting a day in his adult life these
+
+guys had huge variation in their
+
+day-to-day intensity yes Mark Twain was
+
+not writing N9 to5 every week I mean he
+
+would go on these trip like I'm G to go
+
+like I'm GNA go to California to like
+
+write an article about California that's
+
+like five days on the train you know and
+
+then like he's there for three weeks and
+
+then he comes back this is like John MC
+
+he wrote 29 books but also he spent five
+
+laying on his back like just thinking
+
+about when you uh compress a career you
+
+imagine this is what happens is you
+
+think about like kind of working on all
+
+those things at the same time right
+
+Picasso had huge diversions you know
+
+where he was like let me try this or
+
+that uh this movies happens all the time
+
+too like your directors right like wow
+
+they have this great filmography there's
+
+often like some exceptions just like
+
+years for like n nothing was really
+
+getting made I was going back to the
+
+creative well I'm glad you bring this up
+
+and I kind of interrupted but I just no
+
+no no I
+
+I want to hear your this I was thinking
+
+about this during the book yeah because
+
+like in variations in intensity m is
+
+completely compatible with like killing
+
+it like I'm just like producing great
+
+stuff right like I write a lot of books
+
+but I'm not writing every day I'm not
+
+writing every month years will go by you
+
+know a year will go by where I don't
+
+touch a book at all and then you kind of
+
+recharge and come back it just kind of
+
+gets to a third principle at obsessing
+
+over quality but like slow productivity
+
+a lot of the exemplars of this these
+
+traditional knowledge workers are really
+
+productive yeah right like they're you
+
+look at what they've done and are like
+
+okay I'm just going to like give you a
+
+round of applause yes but they're not
+
+trying to do full intensity every day
+
+because that's impossible you can do it
+
+with pseudo work totally right I can do
+
+email and zoom eight hours a day you
+
+know five days a week 50 because it's
+
+it's busyness right but doesn't it's not
+
+I'm actually not being taxed that much I
+
+can't write at that intensity I can't do
+
+a movie I can't do painting at that
+
+intensity so they're they're all over
+
+the place I may be plated here I'm
+
+trying
+
+no that but that makes sense to me that
+
+at a macro level somebody can be
+
+intensely productive yes there's Peaks
+
+and troughs and variation and again as a
+
+self-confessed workaholic that Maps
+
+pretty well to myself it's funny I go to
+
+my my wife my team I'm like you know
+
+this year this year is a Sprint like I'm
+
+going to go hard this year it's going to
+
+be six day weeks you know whatever there
+
+are other years where I'm like I'm going
+
+to take three months off like I'm
+
+feeling exhausted I need time away so
+
+slow productivity efficient a that's
+
+working at a natural pace so so this
+
+kind of gets back to the point where
+
+it's like philosophically like I think
+
+we're on the same page it's maybe it's
+
+interpretation of the philosophical
+
+precepts so can I propose maybe tell me
+
+if this Rings true like maybe part of
+
+the the instinctual friction because I
+
+get this a lot so I think this this is
+
+worth talking about is the notion of
+
+slowness in our culture is so connected
+
+to sort of anti-product self care
+
+laziness yeah but or well positive spin
+
+it but it's like yeah you're doing be
+
+less productive because there's more to
+
+life than productivity right it's not
+
+what I think about with slow
+
+productivity actually I think about I
+
+want to really produce awesome stuff
+
+like I'm fiercely ambitious you know
+
+like I want to produce really good stuff
+
+and keep getting better this is what
+
+allows you to keep doing it this what
+
+allows you like Picasso to do it 100%
+
+but I think this is the there's another
+
+dominant discourse right now that came
+
+out of the same place which is pseudo
+
+productivity is Terri and people are
+
+exhausted and we're done with being on
+
+Zoom 8 hours a day the other dominant
+
+discourse that came out of this is the
+
+anti-pr movement and that's much more
+
+coming at it from a a perspective of
+
+work as a pejorative and it's more of a
+
+antagonistic relationship between you
+
+and work and you Zero Sum are claiming
+
+more for life outside of work there's
+
+more the life than than work yeah these
+
+type of arguments have never been as
+
+compelling to me because I think that
+
+people who need them
+
+let's just be less hustle I mean like
+
+yes but also like that's a hard sell for
+
+a lot of people so when it's framed that
+
+way it resonates a little bit more you
+
+know the the anti- hustle culture thing
+
+like it's I I agree with you that it's
+
+there's often especially when you're in
+
+one of these Sprint periods you get
+
+outsize gains from taking your foot off
+
+gas for a little while like go take that
+
+4-day weekend and relax by a lake or
+
+something and you'll come back and
+
+you're you're actually twice as
+
+productive as you would have been
+
+otherwise and you make you make up for
+
+the Lost quote unquote lost time totally
+
+get that with this I run into the fear
+
+too of like and maybe it's part of this
+
+I just don't trust myself enough but
+
+like how do we recognize what the
+
+natural pace for us is because I know
+
+for myself and a lot of people I know as
+
+well if I try to allow myself to take
+
+breaks I will sometimes wonder if I'm
+
+being lazy if I'm just avoiding
+
+responsibilities if I'm actually nervous
+
+to try to do something and this is my
+
+way of like trying to avoid it yeah and
+
+then on the converse side like on the
+
+flip side I'm also sometimes when I push
+
+myself super hard I'm like this is
+
+unhealthy I'm probably avoiding
+
+something like I'm very skeptical of my
+
+own ability to accurately gauge what is
+
+natural for myself and so yeah maybe
+
+this is just this is my therapy session
+
+well I mean look I would I would rather
+
+have you have more variation in your
+
+intensity for the wrong reasons yeah
+
+then have you work all out for the wrong
+
+reasons right because working all out is
+
+just not sustainable it's just not
+
+sustainable like it just doesn't work
+
+right so there isn't really an argument
+
+for I could do this like work all out
+
+and have no variation of my pacing and
+
+there's some things I'm losing and some
+
+things I'm gaining no N Net you're going
+
+to just lose sure right it's just going
+
+to it is going to burn you out in the
+
+end because it's it's unnatural right I
+
+mean same thing if you had you know a
+
+relationship with you know food or drugs
+
+or something they were like this is just
+
+not sustainable for like a human body
+
+like okay I'm going to drink heavily
+
+yeah uh and that has its advantages and
+
+it disadvantages like no net net is
+
+going to end up being just all
+
+disadvantages like right now yeah you're
+
+getting advantages out of it like
+
+sociality but give that 20 years like
+
+this is not going to go someplace good
+
+that's what I feel about the allout
+
+working one thing I've talked about
+
+before on this podcast is is that
+
+there's a very fine and blurry line
+
+between hash selfcare and hhag
+
+self-indulgence you know where is that
+
+line where taking the time off backing
+
+off just turns into you know quiet
+
+quitting or whatever yeah so this is why
+
+the third principle obsess over quality
+
+I call that the glue for everything else
+
+this is what makes all that work right
+
+so when you begin to also reorient your
+
+work around doing things really well
+
+like this is the thing I want to do
+
+really well and I'm going to keep
+
+getting better at it like I'm going to
+
+prioritize craft and get better about
+
+something this makes uh all of the other
+
+things I talked about not become
+
+degenerate and go into a weird Direction
+
+so if you don't have the obsess over
+
+quality and all you're working on is I
+
+want to do fewer things and I want more
+
+variation these are all real issues yes
+
+right I mean it's like I don't know
+
+where this is going and you can become
+
+sort of pathological about that I do
+
+nothing yeah I work two days a week I
+
+win the do fewer things and natural pace
+
+or whatever the obsess over quality is
+
+the moderator so I mean I say in the
+
+book without that you're just going to
+
+be engendering a sort of weird
+
+antagonistic relationship with your work
+
+and it's going to go weird places if
+
+you're obsessing over quality a lot of
+
+these issues go away right because now
+
+what's driving you is I want to produce
+
+the next thing I do I want to be great
+
+so I am going to keep working on this
+
+and like why am I having variations
+
+because it feels As Natural to me as
+
+anything else that my quality is
+
+slumping here like this book is not
+
+going to be great I can't just White
+
+Knuckle this like I need to like this
+
+isn't working you know like I need to go
+
+take a week and just think about it and
+
+like walk the beach let me come back to
+
+it again because if I don't this thing's
+
+not going to be good if you don't obsess
+
+over quality and it's just a pseudo
+
+productivity world you're like I don't
+
+know more I could always do more more
+
+and more is always abstractly better so
+
+when you obsess over quality slowness
+
+becomes natural like of course I need to
+
+slow down because this junk is getting
+
+in the way of this like you're not even
+
+convincing yourself uh and then you get
+
+the other Advantage was as you get
+
+better you get more leverage to actually
+
+do more of that so you have this sort of
+
+virtuous cycle so yeah the quality piece
+
+is to Lynch pin people who obsess over
+
+quality don't hashtag selfcare yeah yeah
+
+totally they hashtag here's my tonies
+
+you know what I mean like this is what
+
+they're thinking about but by the way
+
+they probably doing more selfcare than a
+
+lot of just pseudo productivity drenched
+
+knowledge workers because you know I got
+
+to do what works like ly Mel Miranda
+
+needed this play to be great and he
+
+couldn't White Knuckle that yet so he
+
+knew this was going to take time and
+
+it's there's an awareness of like it's
+
+not just about taking care of myself
+
+it's also you're taking care of your own
+
+work because yeah if you White Knuckle
+
+it for too long you start doing bad work
+
+so that that totally makes sense so far
+
+you were Neo in The Matrix with my
+
+objections uh I've got two
+
+more here we go I should have I should
+
+have put more curse words in the title I
+
+thought about it how much of this is
+
+kind of a privileged position like
+
+obsessing over quality in particular
+
+like if you are somebody who's growing
+
+up in poverty just trying to claw your
+
+way out of it do whatever it takes you
+
+know [ __ ] how well the product turns out
+
+like I'm going to work three jobs until
+
+I can get my get the [ __ ] out of here
+
+like where is the boundary on that
+
+Dimension and I use the word privileged
+
+like not in a pejorative way but like
+
+just in an like socioeconomic way of
+
+like is this a middle class white collar
+
+knowledge worker thing college educated
+
+thing or is this more broadly applicable
+
+this book is looking specifically at
+
+this particular economic sector because
+
+this is the economic sector that has
+
+these odd dynamics of complete autonomy
+
+and lack of specificity about how work
+
+unfolds uh complete dependence on
+
+digital tools that allows work to follow
+
+you anywhere you're going these are the
+
+things that came together to create the
+
+pseudo productivity Bur out crisis so
+
+this is very focused on knowledge work
+
+but one of the things I say about that
+
+is knowledge work up to this point
+
+hasn't really had this discussion right
+
+so other sectors of the economy that do
+
+other types of work were often much more
+
+comfortable maybe not solving the
+
+problem but have a vocabulary for
+
+talking about the problem like okay well
+
+this is the problem with like the
+
+service sector for example right there's
+
+a lot of issues with the service sector
+
+right and service sector jobs can be way
+
+worse than anything we're talking about
+
+here right right like having three
+
+service sector jobs where they're doing
+
+algorithmically optimized scheduling
+
+meaning that the Starbucks manager just
+
+calls you and it's like never mind
+
+you're working like one hour this day
+
+and like three hours here uh this is way
+
+worse than I have too many emails but
+
+also in the service sector at least uh
+
+the people who are talking about this
+
+like this is definitely a problem
+
+everyone's like yeah this is a problem
+
+what is this guy you what are you doing
+
+with this and we're going to unionize
+
+now and at least there's a fight going
+
+on knowledge work we don't even have the
+
+fight right it's like no you should just
+
+feel like this is white colar work like
+
+this is you know you're this is It's
+
+creative and you should you're
+
+passionate about this job how could you
+
+complain you your great salary and
+
+benefits and you're working from home
+
+what are you complaining about yeah
+
+exactly right so you don't want to
+
+compare the magnitude of the problems
+
+between sectors because I mean this
+
+sector's got a you work an air
+
+conditioner let's be honest about this
+
+right so you know these are not
+
+strategies for the service sector it's
+
+not strategies for the agriculture
+
+sector for the industrial sector um but
+
+one thing this sector could learn from
+
+all those other sectors is like be
+
+willing to have people to step back and
+
+say there is a problem here let's think
+
+about what it is and like let's talk
+
+about Solutions and let's fight about
+
+the solutions and you know I'm going to
+
+propose this and this person and we just
+
+don't have that discussion at all in
+
+knowledge work well to clarify maybe
+
+what about like at the bottom of the
+
+totem poll of the knowledge worker
+
+sector like you know a a secretary who's
+
+taking an extra job you know doing data
+
+entry or something in the knowledge
+
+sector but at the the lower sectors of
+
+it yeah so hopefully the idea is not
+
+only your job be more sustainable you're
+
+going to move up faster yeah right like
+
+okay what's going on here this job's
+
+entry level is always my advice to
+
+someone entry level knowledge work like
+
+find the two or three things or the one
+
+or two things that you can start
+
+learning how to do really well that then
+
+you're indispensable on that and then
+
+they stop giving you the other things
+
+and that's how you begin to move up I
+
+mean this is the it's like the fallacy
+
+of being an assistant in Hollywood right
+
+you want to be like super competent and
+
+ambitious but not too good
+
+at the small things right if you make
+
+yourself indispensable at I can figure
+
+out that you're dry cleaning you could
+
+pick it up on the way here and I got the
+
+driver going over here they're never
+
+going to let you move up because the
+
+agents if they move you up to be a
+
+junior agent don't need to be good at
+
+that they need to have like some other
+
+attribute and there's this whole
+
+thinking of like okay so I want to get
+
+really good there's that whole game
+
+theory there yeah of like you whatever
+
+it is they care about some shark
+
+attitude but you got to show it right so
+
+I think uh obsessing over quality more
+
+like right away what can I do better
+
+thinking about okay I need some
+
+variation in the book I talk about how
+
+to put variation without telling anybody
+
+without it being notable like right I
+
+have all that advice about Stealth quiet
+
+quitting for just three weeks at a time
+
+like giving yourself secretly variation
+
+so you're not burning out yeah and then
+
+working with transparency of workload
+
+and and trying to the subtler advice for
+
+doing fewer things the hope is that will
+
+move you up quicker than if you're just
+
+like let's just uh rock and roll I'm
+
+just going to be on email all day you're
+
+going to burn yourself out right so so
+
+hopefully if you're into knowledge
+
+sector this is implementable and make
+
+things better yeah my other question was
+
+around young people particularly because
+
+they have the most energy generally and
+
+often they aren't totally aware of what
+
+they want to specialize in or what they
+
+want to get really good at and so there
+
+is an element of like test a bunch of
+
+different things maybe even test a few
+
+different jobs before you go all in on
+
+something yeah like how does that fit
+
+into this yeah I mean if only there was
+
+a book
+
+that that thought more about I thought a
+
+lot about that
+
+um young people spend too much time
+
+doing this yeah and and I'm not saying
+
+you should just throw a dart but also
+
+the the only leverage or Capital you
+
+have in your career and knowledge work
+
+is your skills yes like the things you
+
+can do well that are rare and valuable
+
+that's your leverage and you can alter
+
+those over time you can pick up new ones
+
+but you should be obsessing almost from
+
+day one where is there someplace here in
+
+this entry-level job and I'm xeroxing
+
+things for whatever where is there a
+
+place here where there's something
+
+valuable that like most people at this
+
+level aren't doing well that I can with
+
+laser focus get really good at right it
+
+doesn't mean like what what might that
+
+be if you're at an entry level knowledge
+
+or position xoxy that thing is not going
+
+to be your career 25 years from now
+
+that's going to be what starts moving
+
+you towards options starts exposing more
+
+of the world to you you know it's it's
+
+like uh when you're new in your career
+
+you have these huge blinders on yes you
+
+could survey the world as much as you
+
+want but all you're going to see is like
+
+the reality of the entry-level jobs you
+
+you don't know enough to know what comes
+
+up next or what it really feels like so
+
+you actually have to start climbing the
+
+ladder and at each level it's like
+
+Donkey Kong yeah now I can run over this
+
+platform and go up another ladder but I
+
+don't know what's up there so you have
+
+to how do I get up those ladders quicker
+
+rare and valuable skills yeah if
+
+anything just practice it like in your
+
+first job make it a game I'm going to
+
+choose this thing and within six months
+
+I'm going to be awesome at it just to do
+
+just to practice like what does it feel
+
+like to get really good at something
+
+like what is just the sense memory or
+
+the cognitive sensation up doing that so
+
+I'm a big fan that rare and valuable
+
+skills that's the only currency in the
+
+end knowledge work is the only currency
+
+that really matters and so you want to
+
+have a lot of that so you can kind of
+
+make investments in what you want your
+
+career to be like yeah you want me over
+
+I have no room to talk because I never
+
+had a real job so I mean I mean have I
+
+really I'm a I'm a professor and a
+
+writer speaking of being a professor I'm
+
+curious you know it's fashionable to
+
+trash jiny right now particularly around
+
+things like this around quiet quitting
+
+self-care how they're always on social
+
+media have you
+
+noticed any Trends any differences like
+
+do you think it's over overblown are you
+
+bullish bearish on jenzy what are your
+
+thoughts I'm bullish I mean the look the
+
+students at Georgetown that I teach
+
+they're all brilliant they're all
+
+smarter than I was at that age uh so you
+
+don't really see that carry over uh I
+
+think social media trends are easy to
+
+extrapolate to a generation but often no
+
+it's why what makes a social Med media
+
+Trend to trend is it plays well with the
+
+algorithm and then more and more people
+
+figure that out and it's this weird
+
+cybernetic cont content production Loop
+
+and that now everyone's doing quiet
+
+quitting videos um and then the
+
+algorithm kind of just favored that and
+
+no one talks about quiet quitting
+
+anymore I care less about that the thing
+
+I do worry a little bit about talking to
+
+like my jiny students the attention span
+
+thing is real right I mean I have
+
+students telling me I can't believe that
+
+anyone watches YouTube anymore like
+
+those videos could be like 15 minutes
+
+long like are you kidding me like in a
+
+an age of Tik Tok who is watching
+
+YouTube it's like a a sincere concern
+
+that like a lot of my students have and
+
+so I'm always telling them this could be
+
+really good news for you right like it's
+
+the parable of the bear if you know
+
+you're with your friend and a and a bear
+
+charges you don't have to be faster than
+
+the bear you just have to be faster than
+
+your friend right yeah well it's the
+
+same thing with attention right now I
+
+was like if you opt out like 50% of this
+
+like if you don't use Tik Tok just let's
+
+just do that like if you read as a
+
+college student just compared to the
+
+fragmentation of attention of the people
+
+around you you're going to be like
+
+Einstein people like I cannot believe
+
+that you wrote this whole thing this
+
+whole memo in like three hours or how
+
+did you get so much stuff done how do
+
+you also have these hobbies that are
+
+fulfilling you and so that's the thing I
+
+do care about is the Deep work effect
+
+right yeah is uh I do think digital
+
+media especially in uh nonprofessional
+
+media where jiny has this very
+
+particular phonetic relationship that
+
+could have some ramifications yeah but
+
+it's a very smart generation I agree
+
+I interact you know a significant
+
+percentage of my audience is jiny and I
+
+play a lot of video games um so I
+
+inevitably end up watching you know
+
+these 20-year-olds on Twitch who are
+
+just incredible at games and yeah it's a
+
+hungry generation it is I'm I'm actually
+
+consistently impressed uh by how
+
+thoughtful and aware they are of
+
+everything going on and I agree like
+
+they I I have seen 20 yearolds on Twitch
+
+and Discord say and think about things
+
+that I was nowhere near that level of
+
+maturity when I was their age so I mean
+
+I think this is the the plus side of
+
+like YouTube influencer culture right if
+
+you think back to J X yeah for example
+
+like before us you know the sort of
+
+slacker culture in part because there
+
+was no like obvious place to let out
+
+what might be a natural ambition now
+
+like every kid is like I'm going to be
+
+like a very successful YouTuber all
+
+right they're not going to be yeah but
+
+at least they're thinking in terms of uh
+
+like an ambition like okay I could do
+
+this I could focus on this i' have to
+
+buy a camera and then if I got really
+
+good we could grow the audience like a
+
+lot of people don't think that way
+
+totally when they're 15 16 years old
+
+absolutely now the key is how do you
+
+take that ambition and then translate it
+
+away from I'm going to be a twitch
+
+streamer yeah like you know what like
+
+that same mindset you could push over
+
+here to like the sport you're training
+
+for or like you're getting into the
+
+theater as like a high school student
+
+like you could put that same ambition
+
+over here and realizing oh this is this
+
+is something I can do for like whatever
+
+I'm interested one thing that I've been
+
+thinking about a lot lately is that our
+
+generation Gen X and before starting
+
+with the Boomers really
+
+self-destructiveness kind of became cool
+
+became a status symbol I think it
+
+started in the 60s with the free love
+
+and rock and roll and everything and it
+
+continued up through the 90s and I feel
+
+like Jin Z is the first generation since
+
+maybe the 40s and 50s that status is
+
+awarded towards constructive Behavior
+
+sure which it's actually kind of blowing
+
+my mind like I it's one of those when
+
+you're it's like a fish doesn't
+
+recognize the water that it's been
+
+swimming in its whole life I've become a
+
+lot more aware of a lot of the
+
+destructive tendencies that existed when
+
+I was a teenager and in my 20s and a lot
+
+of the dumb destructive [ __ ] I did
+
+because I thought it was cool and it got
+
+it got like won me cool points with my
+
+friends it's something that's just
+
+really been sitting on my mind quite a
+
+bit lately and I I don't totally know
+
+how to explain it or what to make of it
+
+I mean it's it's a good question like
+
+what to what for example this whole
+
+phenomenon of interaction is more
+
+digital for the for jiny right there's
+
+some real harms about that it also is
+
+reducing self-destructive Behavior
+
+because now you I have other ways that I
+
+I I can at least simulate sociality when
+
+it's when I'm just with my buddies yeah
+
+when we were in our teens right you like
+
+do stupid stuff like I don't know this
+
+is the group I'm stuck with yes like how
+
+are we going to what's going to impress
+
+them like okay I think I can you know
+
+you take the car to the parking lot
+
+we're going to do the donuts and what we
+
+literally would do this steal steal your
+
+m beer yeah yeah we now kids are like
+
+let's you know let's let's uh let's
+
+record a let's play of this like new
+
+video game so but then there's also C so
+
+it's interesting it's it's Evolution um
+
+our generation also had I wrote this New
+
+Yorker piece about this last year my
+
+take on our generation like at least
+
+from our relationship to work is that we
+
+were the first generation raised on
+
+follow your passion yes right so abut
+
+that is an idea that Rose in the 1990s
+
+right we can just look at it enic
+
+ethologically um that got big in the
+
+'90s so Gen X didn't have that as much
+
+then we're also the generation that got
+
+911 in the financial crisis so like we
+
+learned we like wait a second this
+
+doesn't work this idea and so like f
+
+your passion was the Baby Boomers trying
+
+to rationalize these two sides of their
+
+experience the 60s and 70s in which it
+
+was like you need to like be true to
+
+yourself and then the 80s and early 90s
+
+were like oh you need money to pay
+
+mortgages and there's a lot of you know
+
+so how do we and they're like what if we
+
+just put these two things together we'll
+
+we'll like take all the good and get rid
+
+of all the bad from our life and like
+
+make money but be passionate about
+
+working at the law firm or whatever and
+
+then we figured out that doesn't work
+
+like it's not how you job satisfaction
+
+doesn't come from matching the content
+
+of your job to a pre-existing passion so
+
+our generation invented job engineering
+
+like we you know we we get like the
+
+minimalism Movement we get lifestyle
+
+design we get uh all these Instagram
+
+influencers they're showing alternative
+
+like that's what our generation came
+
+away with is like okay you got to shape
+
+your life like that really influences us
+
+it's a lot in my book How do you craft
+
+your life to be what you want and it's
+
+very pragmatic we get like the fire
+
+movement like this is all Gen Y
+
+Millennial like oh Follow Your Passion
+
+didn't work so we got to just sort of
+
+re-engineer work to be what we need out
+
+of it so like now Jin Z is doing its own
+
+thing so this is last question I want to
+
+ask you the three principles of slow
+
+productivity it occurred to me that this
+
+is actually kind of a an umbrella
+
+framework for all of your books so if
+
+you look at do fewer things is digital
+
+minimalism work at your own pace deep
+
+work and then obsess over quality is so
+
+good they can't ignore you did you think
+
+of it in those terms or did that just
+
+kind of naturally emerge it's somewhat
+
+purposeful okay yeah right right so so
+
+it's trying to draw all these ideas I've
+
+been exploring deconstruct them
+
+understand them and then rebuild like a
+
+coherent Philosophy for work yeah so it
+
+is I think it's why people who like my
+
+prior books who have read this are like
+
+oh yeah no I really like this if they
+
+were if they like the prior books
+
+they're going to really like it I'm
+
+actually writing an article right now um
+
+maybe it'll be out in this podcast there
+
+it's a New Yorker piece it's a personal
+
+essay right so uh I've been writing a
+
+lot about this book but they're like why
+
+don't we write something different let's
+
+do something different let's do
+
+something personal and so I excavated my
+
+past right and in this essay I go back
+
+to my time in the theory group at MIT
+
+this it and it was like this
+
+Preposterous place like this is because
+
+I I had put a lot of this down but I
+
+came back I reded this up like what it
+
+was like showing up at the theory group
+
+at MIT which is the number one Theory
+
+group in the world right and it was
+
+Preposterous I I come to orientation and
+
+one of the first people I meet 16
+
+starting the doctoral program graduated
+
+college two years earlier so he
+
+graduated college at 14 had spent two
+
+years all right show up the uh the
+
+professor across from me like in their
+
+office is uh my age and he wanted
+
+MacArthur the year before was hired as a
+
+professor when he was 20 got tenure at
+
+the end of my first year and he was the
+
+least accomplished person on that wall
+
+of offices three offices had tur Award
+
+winners and he was the there's and F
+
+anyway so I went back and like reded
+
+this like Preposterous experience and
+
+basically the point of this essay is
+
+like oh my God everything I've chased in
+
+all these books that culminate in slow
+
+productivity all of it goes back to my
+
+time at the theory group they were
+
+obsessed over Focus they had a real sort
+
+of humanistic because they were
+
+theoreticians computer science
+
+theoreticians in a world of Engineers
+
+the human mind is what matters be very
+
+wary of technology and like how it
+
+affects the mind there was no rushing
+
+theoreticians can't rush rush so they
+
+were very productive but like they
+
+didn't you couldn't be busy because you
+
+can't force proofs so I realize all
+
+these things like uh work at a natural
+
+pace on not too many things care a lot
+
+about Focus be obsessed about quality
+
+everything I've done I realized it's
+
+like this fiveyear experience of this
+
+like Preposterous place that no business
+
+being there um I've just been chasing it
+
+ever since so that's that's my new self
+
+therapy is like that experience is
+
+something I've been trying to like
+
+grapple with in my writing for 20 years
+
+later one of my favorite quotes I don't
+
+remember who said it we spend our entire
+
+lives trying to either prove or disprove
+
+who we were at 18 yeah it was so
+
+overwhelming this experience that I've
+
+never I was like okay I just have to
+
+Grapple with this for the rest of my
+
+life like I think I think there's
+
+something happening here in a weird
+
+extreme purified form that is in somehow
+
+right yeah and it's being lost in this
+
+like really weird Preposterous place
+
+that no one sees but I think they've
+
+like ABS accidentally like purified and
+
+made radical like these ideas like why
+
+have they stuck with I think they were
+
+on to something and then I just keep
+
+rediscovering them again and again nice
+
+all right that's all for the show be
+
+sure to follow the show if you haven't
+
+leave a review make sure you're
+
+subscribed and tell me how handsome I am
+
+and we'll be back next week with an all
+
+new episode of the subtle art of not giv
+
+a [ __ ] podcast see you all then
+
+[Music]
+
